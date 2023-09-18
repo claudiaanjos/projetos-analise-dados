@@ -1,4 +1,4 @@
-![](https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image0.png)
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image0.png" width="60%"/>
 
 Como parte do meu aprimoramento na área de Análise de Dados, estou embarcando em uma jornada de aprendizado que envolve o desenvolvimento de estudos de caso. Esta iniciativa tem como objetivo não apenas adquirir conhecimentos teóricos, mas também aplicá-los de forma prática.
 
@@ -31,19 +31,19 @@ Após avaliação do conjunto de dados, identificamos e solucionamos algumas que
 
 - A coluna “age”, que corresponde a idade em anos, apresentou 0,04% (20 registros) de valores ausentes. Optamos por imputar os valores com a moda (32 anos), que representa o valor mais frequente. A média não era adequada devido à assimetria na distribuição dos dados e à presença de outliers;
 
-![](https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image13.png)
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image13.png" width="40%"/>
 
-![](https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image1.png)
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image1.png" width="60%"/>
 
-![](https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image2.png)
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image2.png" width="60%"/>
 
 - A coluna “month”, que corresponde ao último mês de contato do ano, apresentou 0,11% (50 registros) de valores ausentes. Optamos por imputar com o valor da moda (may, 2017);
 
 - A coluna “salary”, que corresponde ao salário anual em euros do cliente, apresentou 0,06% (26 registros) de valores ausentes e 288 registros com o valor igual a zero. Optamos por imputar com o valor da mediana (60000 euros), uma vez que os dados parecem apresentar assimetria. A média não é apropriada neste caso, e a moda também não, pois o valor mais frequente está consideravelmente abaixo da média e da mediana;
 
-![](https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image3.png)
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image3.png" width="60%"/>
 
-![](https://github.com/claudiaanjos/projetos-analise-dados/blobe16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image4.png)
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image4.png" width="60%"/>
 
 - A coluna “response”, com a informação se o cliente assinou ou não o depósito a prazo, apresentou 0,07% (30 registros) de valores ausentes. Como essa é uma variável alvo/resposta não devemos aplicar imputação, então deletamos esses registros;
 
@@ -57,31 +57,31 @@ Após avaliação do conjunto de dados, identificamos e solucionamos algumas que
 
 - A idade mais frequente é de 32 anos. Percebe-se que grande parte dos clientes que adquiriram o produto estão na faixa dos 30 a 35 anos;
 
-![](https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image5.png)
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image5.png" width="60%"/>
 
 - No total temos que 60,2% dos clientes são casados. Analisando apenas os que adquiriram o produto essa proporção é de 52,1% de casados;
 
-![](https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image6.png)
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image6.png" width="60%"/>
 
 - Dentre as ocupações dos clientes, as funções 'blue-collar' se destacam como as mais comuns, representando 21,5% do total. Essas ocupações são caracterizadas por atividades físicas e manuais (como construção, montagem, manutenção, produção industrial, entre outros). No entanto, quando examinamos os clientes que adquiriram o produto, notamos uma predominância de cargos de 'management'. Essas posições envolvem liderança e gestão, com os indivíduos desempenhando papéis-chave na tomada de decisões e na coordenação das operações de suas respectivas organizações;
 
-![](https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image7.png)
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image7.png" width="60%"/>
 
 - Analisando todos os clientes, bem como aqueles que adquiriram o produto, a maioria possui educação equivalente ao ensino médio, conhecido como 'secondary'. O termo 'secondary' se refere, em geral, ao nível de educação secundária, que é a etapa da educação formal que segue a educação primária e antecede o ensino superior;
 
-![](https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image8.png)
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image8.png" width="60%"/>
 
 - A média salarial anual dos clientes que não adquiriram o produto era de 57.157 euros, enquanto os que adquiriram tinham uma média de 59.157 euros. A mediana permaneceu constante em 60.000 euros. O boxplot revela que os clientes que não adquiriram o produto tendem a ter salários abaixo da mediana, enquanto os compradores têm salários acima da mediana. Observamos também uma tendência de aumento salarial com níveis educacionais mais altos;
 
-![](https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image10.png)
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image10.png" width="60%"/>
 
-![](https://github.com/claudiaanjos/projetos-analise-dados/blobe16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image11.png)
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image11.png" width="60%"/>
 
 
 - Ao examinar os dados relacionando o saldo bancário com o salário, não fica evidente uma relação clara e linear. No entanto, quando observamos a relação entre o saldo bancário e a idade, notamos uma tendência. À medida que a idade aumenta, há um leve aumento no saldo bancário;
 
-![](https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image9.png)
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image9.png" width="60%"/>
 
 - Identificamos padrões interessantes no mapa de correlação. Por exemplo, notamos que clientes solteiros com ensino superior (terciary) apresentaram uma maior probabilidade de compra do produto. Em contrapartida, clientes casados com educação fundamental (primary) parecem ter uma probabilidade menor de compra dentro desse grupo específico.
 
-![](https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image12.png)
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image12.png" width="60%"/>
