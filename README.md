@@ -1,4 +1,4 @@
-![](https://github.com/claudiaanjos/projetos-analise-dados/blob/main/image.png)
+![](https://github.com/claudiaanjos/projetos-analise-dados/blob/main/images/image.png)
 
 # Projetos de Análise de Dados 
 
