@@ -1,6 +1,5 @@
 ![](https://github.com/claudiaanjos/projetos-analise-dados/blob/main/images/image.png)
 
-# Projetos de Análise de Dados 
 
 Bem-vindo ao meu repositório de projetos de análise de dados! 
 
