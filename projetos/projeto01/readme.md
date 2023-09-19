@@ -100,13 +100,13 @@ Após avaliação do conjunto de dados, identificamos e solucionamos algumas que
 
 ### Dashboard dos Compradores do Produto
 
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/bb573e6051737608ea38effa44e924bd8b4f1c67/projetos/projeto01/images/image15.png" width="80%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/bb573e6051737608ea38effa44e924bd8b4f1c67/projetos/projeto01/images/image15.png"/>
 
 &nbsp;
 
 ### Dashboard dos Principais Influcenciadores para Aquisição do Produtos
 
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/bb573e6051737608ea38effa44e924bd8b4f1c67/projetos/projeto01/images/image16.png" width="70%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/bb573e6051737608ea38effa44e924bd8b4f1c67/projetos/projeto01/images/image16.png"/>
 
 
 
