@@ -94,19 +94,19 @@ Após avaliação do conjunto de dados, identificamos e solucionamos algumas que
 
 ### Dashboard Geral
 
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image12.png" width="60%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image14.png" width="60%"/>
 
 &nbsp;
 
 ### Dashboard dos Compradores do Produto
 
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image12.png" width="60%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image15.png" width="60%"/>
 
 &nbsp;
 
 ### Dashboard dos Principais Influcenciadores para Aquisição do Produtos
 
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image12.png" width="60%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image16.png" width="60%"/>
 
 
 
