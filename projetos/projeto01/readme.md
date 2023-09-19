@@ -85,3 +85,29 @@ Após avaliação do conjunto de dados, identificamos e solucionamos algumas que
 - Identificamos padrões interessantes no mapa de correlação. Por exemplo, notamos que clientes solteiros com ensino superior (terciary) apresentaram uma maior probabilidade de compra do produto. Em contrapartida, clientes casados com educação fundamental (primary) parecem ter uma probabilidade menor de compra dentro desse grupo específico.
 
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image12.png" width="60%"/>
+
+&nbsp;
+
+&nbsp;
+
+## Dashboards Power BI
+
+### Dashboard Geral
+
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image12.png" width="60%"/>
+
+&nbsp;
+
+### Dashboard dos Compradores do Produto
+
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image12.png" width="60%"/>
+
+&nbsp;
+
+### Dashboard dos Principais Influcenciadores para Aquisição do Produtos
+
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image12.png" width="60%"/>
+
+
+
+
