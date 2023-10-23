@@ -55,13 +55,13 @@ Mais informações sobre os dados e o dicionário das variáveis estão disponí
 * A variável *days_since_prior_order* representa os dias desde o último pedido, limitado a 30 (com NAs para 1 pedido). Ela apresentou um percentual de 6,4% de dados ausentes. Iremos mantê-la no conjunto, dado esse baixo percentual e porque não a usaremos com o algoritmo MBA.
 * Realizamos o agrupamento dos dados para aplicar o algoritmo Apriori e prepararamos o dataset com todas as transações. Para cada id do pedido atribuimos uma lista com os ids dos produtos do mesmo. Tivemos o seguinte resultado do novo dataframe:
 
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto03/images/image11.png" width="60%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto03/images/image11.png" width="40%"/>
 
 ## Análise
 
 * Qual o Número de Pedidos Mais Frequente Entre os Usuários?
 
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto03/images/image02.png" width="60%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto03/images/image02.png" width="80%"/>
 
 > A maioria dos clientes fez quatro pedidos. A menor frequência está entre 70 e 99 pedidos.
 
@@ -73,31 +73,31 @@ Mais informações sobre os dados e o dicionário das variáveis estão disponí
 
 * Qual Hora do Dia Tem o Maior Número de Pedidos?
 
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto03/images/image04.png" width="60%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto03/images/image04.png" width="80%"/>
 
 > O pico do dia com maior número de pedidos é entre 10 horas e 16 horas. E poucas pessoas fazem pedidos entre 2 horas e 4 horas.
 
 * Qual Departamento Tem o Maior Número de Pedidos?
 
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto03/images/image05.png" width="60%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto03/images/image05.png" width="80%"/>
 
 > O departamento que tem o maior número de pedidos é *produce*. Produce é um departmento com produtos frescos, ou seja, frutas e legumes/vegetais.
 
 * Quais os 20 Principais Corredores Por Frequência de Pedidos?
 
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto03/images/image06.png" width="60%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto03/images/image06.png" width="80%"/>
 
 > Os corredores com maior número de pedidos são os de frutas e vegetais. Perceba que esses dois corredores são do departamento de *produce*, como visto anteriormente.
 
 * Quais os 20 Principais Produtos Por Frequência de Pedidos?
 
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto03/images/image07.png" width="60%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto03/images/image07.png" width="80%"/>
 
 > O produto com maior frequência de pedido é banana.
 
 * Análise de Novos Pedidos Semelhantes a Pedidos Anteriores (reorder)
 
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto03/images/image08.png" width="60%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto03/images/image08.png" width="80%"/>
 
 > No gráfico de barras empilhadas, podemos observar que temos uma proporção semelhante das barras, ou seja, os clientes compram novamente o mesmo produto. 
 
