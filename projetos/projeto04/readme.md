@@ -48,7 +48,7 @@ Mais informações sobre os dados e o dicionário das variáveis estão disponí
 
 * Quanto aos dados de **training_hours**, observamos uma concentração principalmente no lado esquerdo do histograma. Esse padrão é esperado, uma vez que as pessoas costumam iniciar os treinamentos com entusiasmo, mas nem todos que começam conseguem concluir a jornada.
 
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto04/images/image03.png" width="60%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto04/images/image03.png" width="80%"/>
 
 * Mapa de Correlação:
 
@@ -62,8 +62,7 @@ Mais informações sobre os dados e o dicionário das variáveis estão disponí
 
     - A relação entre horas de treinamento e outras variáveis é praticamente nula.
 
-image04
-<img src="" width="60%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto04/images/image04.png" width="60%"/>
 
 * Este conjunto de dados contém mais dados com tipo categórico do que numérico. Usamos recursos categóricos nominais para WOE e IV no intuito de ajudar a identificar a importância preditiva das variáveis em relação à variável alvo.
 
