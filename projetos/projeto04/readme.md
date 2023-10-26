@@ -1,4 +1,6 @@
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto04/images/image01.png" width="80%"/>
+<div align='center'>
+    <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto04/images/image01.png" width="80%"/>
+</div>
 
 >Como parte do meu desenvolvimento profissional, estou me dedicando em realizar projetos de análise de dados. Esta iniciativa tem como objetivo não apenas adquirir conhecimentos teóricos, mas também aplicá-los de forma prática. Cada projeto é uma oportunidade para aplicar e solidificar o aprendizado, permitindo-me crescer e colocar em prática o que tenho estudado.
 
@@ -46,8 +48,7 @@ Mais informações sobre os dados e o dicionário das variáveis estão disponí
 
 * Quanto aos dados de **training_hours**, observamos uma concentração principalmente no lado esquerdo do histograma. Esse padrão é esperado, uma vez que as pessoas costumam iniciar os treinamentos com entusiasmo, mas nem todos que começam conseguem concluir a jornada.
 
-image03
-<img src="" width="60%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto04/images/image03.png" width="60%"/>
 
 * Mapa de Correlação:
 
