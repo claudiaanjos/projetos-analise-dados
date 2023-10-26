@@ -64,7 +64,9 @@ Mais informações sobre os dados e o dicionário das variáveis estão disponí
 
     - A relação entre horas de treinamento e outras variáveis é praticamente nula.
 
+<div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto04/images/image04.png" width="60%"/>
+</div>
 
 * Este conjunto de dados contém mais dados com tipo categórico do que numérico. Usamos recursos categóricos nominais para WOE e IV no intuito de ajudar a identificar a importância preditiva das variáveis em relação à variável alvo.
 
