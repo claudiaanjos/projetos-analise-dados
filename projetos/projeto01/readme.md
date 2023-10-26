@@ -1,4 +1,6 @@
+<div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image0.png" width="80%"/>
+</div>
 
 Como parte do meu aprimoramento na área de Análise de Dados, estou embarcando em uma jornada de aprendizado que envolve o desenvolvimento de estudos de caso. Esta iniciativa tem como objetivo não apenas adquirir conhecimentos teóricos, mas também aplicá-los de forma prática.
 
