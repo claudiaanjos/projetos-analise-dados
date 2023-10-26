@@ -40,8 +40,7 @@ Mais informações sobre os dados e o dicionário das variáveis estão disponí
     - Quanto ao tamanho das empresas em que trabalham, a maioria dos candidatos está empregada em empresas com uma equipe de 50 a 99 funcionários.
     - Por fim, é importante destacar que os profissionais geralmente têm períodos curtos de desemprego.
 
-image02
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto04/images/image02.png" width="60%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto04/images/image02.png"/>
 
 * As variáveis **city_development_index** e **training_hours** não apresentam uma distribuição normal. Os boxplots são inversos. A maioria dos registros de CDI está abaixo da mediana. A maioria dos registros de horas de treinamentos está acima da mediana. Temos outliers em ambas variáveis.
 
