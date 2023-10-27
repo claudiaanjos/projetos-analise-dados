@@ -141,6 +141,8 @@ Após avaliação do conjunto de dados, identificamos e solucionamos algumas que
 
 - Ao examinar os dados relacionando o saldo bancário com o salário, não fica evidente uma relação clara e linear. No entanto, quando observamos a relação entre o saldo bancário e a idade, notamos uma tendência. À medida que a idade aumenta, há um leve aumento no saldo bancário;
 
+&nbsp;
+
 <div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image9.png" width="60%"/>
 </div>
