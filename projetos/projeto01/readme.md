@@ -111,6 +111,8 @@ Após avaliação do conjunto de dados, identificamos e solucionamos algumas que
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image7.png" width="60%"/>
 </div>
 
+&nbsp;
+
 - Analisando todos os clientes, bem como aqueles que adquiriram o produto, a maioria possui educação equivalente ao ensino médio, conhecido como 'secondary'. O termo 'secondary' se refere, em geral, ao nível de educação secundária, que é a etapa da educação formal que segue a educação primária e antecede o ensino superior;
 
 <div align='center'>
