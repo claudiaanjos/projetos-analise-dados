@@ -55,7 +55,9 @@ Após avaliação do conjunto de dados, identificamos e solucionamos algumas que
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image3.png" width="60%"/>
 </div>
 
+<div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image4.png" width="60%"/>
+</div>
 
 - A coluna “response”, com a informação se o cliente assinou ou não o depósito a prazo, apresentou 0,07% (30 registros) de valores ausentes. Como essa é uma variável alvo/resposta não devemos aplicar imputação, então deletamos esses registros;
 
