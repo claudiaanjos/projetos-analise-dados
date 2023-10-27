@@ -77,7 +77,9 @@ Após avaliação do conjunto de dados, identificamos e solucionamos algumas que
 
 - No total temos que 60,2% dos clientes são casados. Analisando apenas os que adquiriram o produto essa proporção é de 52,1% de casados;
 
+<div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image6.png" width="60%"/>
+</div>
 
 - Dentre as ocupações dos clientes, as funções 'blue-collar' se destacam como as mais comuns, representando 21,5% do total. Essas ocupações são caracterizadas por atividades físicas e manuais (como construção, montagem, manutenção, produção industrial, entre outros). No entanto, quando examinamos os clientes que adquiriram o produto, notamos uma predominância de cargos de 'management'. Essas posições envolvem liderança e gestão, com os indivíduos desempenhando papéis-chave na tomada de decisões e na coordenação das operações de suas respectivas organizações;
 
