@@ -59,6 +59,8 @@ Após avaliação do conjunto de dados, identificamos e solucionamos algumas que
 
 - A coluna “salary”, que corresponde ao salário anual em euros do cliente, apresentou 0,06% (26 registros) de valores ausentes e 288 registros com o valor igual a zero. Optamos por imputar com o valor da mediana (60000 euros), uma vez que os dados parecem apresentar assimetria. A média não é apropriada neste caso, e a moda também não, pois o valor mais frequente está consideravelmente abaixo da média e da mediana;
 
+&nbsp;
+
 <div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image3.png" width="60%"/>
 </div>
