@@ -39,7 +39,9 @@ Após avaliação do conjunto de dados, identificamos e solucionamos algumas que
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image13.png" width="40%"/>
 </div>
 
+<div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image1.png" width="60%"/>
+</div>
 
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image2.png" width="60%"/>
 
