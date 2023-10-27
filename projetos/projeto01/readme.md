@@ -43,7 +43,9 @@ Após avaliação do conjunto de dados, identificamos e solucionamos algumas que
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image1.png" width="60%"/>
 </div>
 
+<div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image2.png" width="60%"/>
+</div>
 
 - A coluna “month”, que corresponde ao último mês de contato do ano, apresentou 0,11% (50 registros) de valores ausentes. Optamos por imputar com o valor da moda (may, 2017);
 
