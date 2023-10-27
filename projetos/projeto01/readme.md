@@ -125,6 +125,8 @@ Após avaliação do conjunto de dados, identificamos e solucionamos algumas que
 
 - A média salarial anual dos clientes que não adquiriram o produto era de 57.157 euros, enquanto os que adquiriram tinham uma média de 59.157 euros. A mediana permaneceu constante em 60.000 euros. O boxplot revela que os clientes que não adquiriram o produto tendem a ter salários abaixo da mediana, enquanto os compradores têm salários acima da mediana. Observamos também uma tendência de aumento salarial com níveis educacionais mais altos;
 
+&nbsp;
+
 <div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image10.png" width="60%"/>
 </div>
