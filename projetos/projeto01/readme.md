@@ -147,6 +147,8 @@ Após avaliação do conjunto de dados, identificamos e solucionamos algumas que
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image9.png" width="60%"/>
 </div>
 
+&nbsp;
+
 - Identificamos padrões interessantes no mapa de correlação. Por exemplo, notamos que clientes solteiros com ensino superior (terciary) apresentaram uma maior probabilidade de compra do produto. Em contrapartida, clientes casados com educação fundamental (primary) parecem ter uma probabilidade menor de compra dentro desse grupo específico.
 
 <div align='center'>
