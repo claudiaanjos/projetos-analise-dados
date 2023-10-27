@@ -83,7 +83,9 @@ Após avaliação do conjunto de dados, identificamos e solucionamos algumas que
 
 - Dentre as ocupações dos clientes, as funções 'blue-collar' se destacam como as mais comuns, representando 21,5% do total. Essas ocupações são caracterizadas por atividades físicas e manuais (como construção, montagem, manutenção, produção industrial, entre outros). No entanto, quando examinamos os clientes que adquiriram o produto, notamos uma predominância de cargos de 'management'. Essas posições envolvem liderança e gestão, com os indivíduos desempenhando papéis-chave na tomada de decisões e na coordenação das operações de suas respectivas organizações;
 
+<div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/e16522c4be14aea439d63e964d4e75b6eeb939da/projetos/projeto01/images/image7.png" width="60%"/>
+</div>
 
 - Analisando todos os clientes, bem como aqueles que adquiriram o produto, a maioria possui educação equivalente ao ensino médio, conhecido como 'secondary'. O termo 'secondary' se refere, em geral, ao nível de educação secundária, que é a etapa da educação formal que segue a educação primária e antecede o ensino superior;
 
