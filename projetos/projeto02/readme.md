@@ -87,6 +87,8 @@ As questões levantadas e medidas implementadas foram:
 
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto02/images/image03.png" width="60%"/>
 
+&nbsp;
+
 * Pacientes do sexo feminino tem número maior de readmissões.
 
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto02/images/image04.png" width="60%"/>
