@@ -61,6 +61,8 @@ As questões levantadas e medidas implementadas foram:
 
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto02/images/image01.png" width="60%"/>
 
+&nbsp;
+
 * Temos três colunas que têm valores com significado semelhante, por isso realizamos a recategorização das mesmas. A *admission_type_id* com 8 valores foi reduzida para dois: Emergência e Outro. A *discharge_disposition_id* com 26 valores foi reduzida para dois: Casa e Outro. A *admission_source_id* com 17 valores foi reduzida para três: Sala_Emergencia, Recomendacao e Outro;
 * A coluna *readmitted*, que representa os dias para readmissão do paciente internado, possuía os seguintes valores: < 30 (se o paciente foi readmitido em menos de 30 dias), > 30 (se o paciente foi readmitido em mais de 30 dias) e No (nenhum registro de readmissão). Como essa é nossa variável alvo e queremos saber se um paciente será readmitido no hospital ou não, realizamos uma classificação binária. Atribuímos o valor 1 para pacientes readmitidos (se a readmissão foi antes ou após 30 dias) e o valor 0 para nenhuma readmissão;
 * As colunas *A1Cresult* (resultado do teste A1C) e *max_glu_serum* (resultado do teste sérico de glicose) foram reduzidas em categorias de Normal, Anormal e Não Testado, com valores 1, 0 e -99, respectivamente;
