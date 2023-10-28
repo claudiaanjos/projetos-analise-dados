@@ -73,6 +73,8 @@ As questões levantadas e medidas implementadas foram:
 
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto02/images/image02.png" width="60%"/>
 
+&nbsp;
+
 * Temos 23 recursos para 23 medicamentos que indicam, para cada um deles, se uma alteração no medicamento foi feita ou não durante a atual internação do paciente. Verificamos quantas alterações foram feitas no total para cada paciente e criamos um novo atributo. Isso pode ajudar a descobrir uma relação com o número de alterações, independentemente de qual medicamento foi alterado. Além disso, criamos um novo atributo indicando o total de medicamentos que cada paciente consumiu durante a internação. Depois de criar essas duas colunas, removemos as colunas dos medicamentos;
 * Alguns pacientes no conjunto de dados tiveram mais de um encontro com o pesquisador. Não podemos contá-los como encontros independentes, porque isso influencia os resultados para aqueles pacientes que tiveram vários encontros. Assim, tentamos várias técnicas para recolher e consolidar vários encontros para o mesmo paciente e concluímos que o ideal é deixar apenas um registro de encontro para cada paciente e optamos por manter o primeiro.
 
