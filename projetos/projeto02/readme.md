@@ -104,6 +104,8 @@ As questões levantadas e medidas implementadas foram:
 
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto02/images/image05.png" width="60%"/>
 
+&nbsp;
+
 * Mulheres na faixa etária de 70-80 anos tem um número maior de readmissões por emergência.
 
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto02/images/image06.png" width="60%"/>
