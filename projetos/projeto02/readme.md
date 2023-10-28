@@ -120,6 +120,8 @@ As questões levantadas e medidas implementadas foram:
 
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto02/images/image07.png" width="60%"/>
 
+&nbsp;
+
 * Pacientes com comorbidade tem o maior número de visitas. 
 * Quanto mais visitas o paciente recebeu antes da alta, maior foi o volume de readmissões. Ou seja, quanto mais visitas o paciente recebe, maiores as chances de readmissão.
 
