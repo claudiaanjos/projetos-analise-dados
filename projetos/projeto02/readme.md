@@ -91,6 +91,8 @@ As questões levantadas e medidas implementadas foram:
 
 * Pacientes do sexo feminino tem número maior de readmissões.
 
+&nbsp;
+
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto02/images/image04.png" width="60%"/>
 
 * A faixa etária de pacientes entre 70-80 anos é a que tem o maior número de readmissões.
