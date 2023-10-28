@@ -108,6 +108,8 @@ As questões levantadas e medidas implementadas foram:
 
 * Mulheres na faixa etária de 70-80 anos tem um número maior de readmissões por emergência.
 
+&nbsp;
+
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto02/images/image06.png" width="60%"/>
 
 * Mulheres Caucasianas são a maioria entre as mulheres readmitidas.
