@@ -116,6 +116,8 @@ As questões levantadas e medidas implementadas foram:
 
 * Mulheres Caucasianas são a maioria entre as mulheres readmitidas.
 
+&nbsp;
+
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto02/images/image07.png" width="60%"/>
 
 * Pacientes com comorbidade tem o maior número de visitas. 
