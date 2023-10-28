@@ -112,6 +112,8 @@ As questões levantadas e medidas implementadas foram:
 
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto02/images/image06.png" width="60%"/>
 
+&nbsp;
+
 * Mulheres Caucasianas são a maioria entre as mulheres readmitidas.
 
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto02/images/image07.png" width="60%"/>
