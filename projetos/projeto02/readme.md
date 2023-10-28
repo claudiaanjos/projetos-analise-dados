@@ -100,6 +100,8 @@ As questões levantadas e medidas implementadas foram:
 * A faixa etária de pacientes entre 70-80 anos é a que tem o maior número de readmissões.
 * A faixa etária de pacientes entre 70-80 anos tem o maior percentual de readmissões, enquanto a faixa etária de 0-50 anos tem o menor percentual.
 
+&nbsp;
+
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto02/images/image05.png" width="60%"/>
 
 * Mulheres na faixa etária de 70-80 anos tem um número maior de readmissões por emergência.
