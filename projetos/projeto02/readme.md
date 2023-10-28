@@ -129,6 +129,8 @@ As questões levantadas e medidas implementadas foram:
 
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto02/images/image08.png" width="60%"/>
 
+&nbsp;
+
 Durante nossa análise com Python e Power BI (veja os dashboards abaixo), identificamos padrões interessantes. Por exemplo, observamos que mulheres caucasianas, com idades entre 70 e 80 anos e que possuíam mais de uma comorbidade, apresentaram uma probabilidade maior de readmissão hospitalar. Por outro lado, notamos que homens asiáticos, com idades entre 50 e 60 anos e até uma comorbidade, parecem ter uma probabilidade menor de readmissão dentro desse grupo específico de pacientes diabéticos.
 
 &nbsp;
