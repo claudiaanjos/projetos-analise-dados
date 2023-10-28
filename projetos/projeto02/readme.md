@@ -57,6 +57,8 @@ As questões levantadas e medidas implementadas foram:
 * As colunas *examide*, *citoglipton* e *metformin-rosiglitazone*, que representam medicamentos, apresentaram apenas um valor único. Dado que não adicionam informações à análise, optamos por remover as colunas;
 * A coluna *age* (idade) é representada com categorias nas faixas de 10 anos e a maioria dos pacientes está na faixa entre 50 e 90 anos. Para que a população seja distribuída de maneira mais uniforme, realizamos a recategorização da variável com um número menor de faixas. A faixa de 0-50 para pacientes de até 50 anos, a faixa de 80-100 para pacientes acima de 80 anos e as outras faixas são mantidas;
 
+&nbsp;
+
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto02/images/image01.png" width="60%"/>
 
 * Temos três colunas que têm valores com significado semelhante, por isso realizamos a recategorização das mesmas. A *admission_type_id* com 8 valores foi reduzida para dois: Emergência e Outro. A *discharge_disposition_id* com 26 valores foi reduzida para dois: Casa e Outro. A *admission_source_id* com 17 valores foi reduzida para três: Sala_Emergencia, Recomendacao e Outro;
