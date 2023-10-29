@@ -1,3 +1,4 @@
+<div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto03/images/image01.png" width="80%"/>
 
 &nbsp;
