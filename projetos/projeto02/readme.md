@@ -61,7 +61,9 @@ As questões levantadas e medidas implementadas foram:
 
 &nbsp;
 
+<div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto02/images/image01.png" width="60%"/>
+</div>
 
 &nbsp;
 
@@ -73,7 +75,9 @@ As questões levantadas e medidas implementadas foram:
 
 &nbsp;
 
+<div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto02/images/image02.png" width="60%"/>
+</div>
 
 &nbsp;
 
@@ -87,6 +91,7 @@ As questões levantadas e medidas implementadas foram:
 
 &nbsp;
 
+<div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto02/images/image03.png" width="60%"/>
 
 &nbsp;
