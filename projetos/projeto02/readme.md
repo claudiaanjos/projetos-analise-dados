@@ -112,6 +112,7 @@ As questões levantadas e medidas implementadas foram:
 
 &nbsp;
 
+<div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto02/images/image05.png" width="60%"/>
 
 &nbsp;
