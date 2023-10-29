@@ -103,6 +103,7 @@ As questões levantadas e medidas implementadas foram:
 
 <div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto02/images/image04.png" width="60%"/>
+</div>
 
 &nbsp;
 
