@@ -166,24 +166,3 @@ Durante nossa análise com Python e Power BI (veja os dashboards abaixo), identi
 ### Dashboard dos Principais Influcenciadores para Readmissão Hospitalar
 
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto02/images/image10.png" />
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
