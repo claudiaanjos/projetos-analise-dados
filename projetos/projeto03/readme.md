@@ -69,6 +69,7 @@ Mais informações sobre os dados e o dicionário das variáveis estão disponí
 
 <div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto03/images/image02.png" width="80%"/>
+</div>
 
 > A maioria dos clientes fez quatro pedidos. A menor frequência está entre 70 e 99 pedidos.
 
