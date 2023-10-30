@@ -77,6 +77,7 @@ Mais informações sobre os dados e o dicionário das variáveis estão disponí
 
 <div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto03/images/image03.png" width="60%"/>
+</div>
 
 > Os dias com maior número de pedidos são domigo e segunda-feira.
 
