@@ -85,6 +85,7 @@ Mais informações sobre os dados e o dicionário das variáveis estão disponí
 
 <div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto03/images/image04.png" width="80%"/>
+</div>
 
 > O pico do dia com maior número de pedidos é entre 10 horas e 16 horas. E poucas pessoas fazem pedidos entre 2 horas e 4 horas.
 
