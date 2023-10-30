@@ -101,6 +101,7 @@ Mais informações sobre os dados e o dicionário das variáveis estão disponí
 
 <div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto03/images/image06.png" width="80%"/>
+</div>
 
 > Os corredores com maior número de pedidos são os de frutas e vegetais. Perceba que esses dois corredores são do departamento de *produce*, como visto anteriormente.
 
