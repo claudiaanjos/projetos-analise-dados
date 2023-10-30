@@ -107,6 +107,7 @@ Mais informações sobre os dados e o dicionário das variáveis estão disponí
 
 * Quais os 20 Principais Produtos Por Frequência de Pedidos?
 
+<div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto03/images/image07.png" width="80%"/>
 
 > O produto com maior frequência de pedido é banana.
