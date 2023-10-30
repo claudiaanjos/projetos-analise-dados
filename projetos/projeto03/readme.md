@@ -93,6 +93,7 @@ Mais informações sobre os dados e o dicionário das variáveis estão disponí
 
 <div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto03/images/image05.png" width="80%"/>
+</div>
 
 > O departamento que tem o maior número de pedidos é *produce*. Produce é um departmento com produtos frescos, ou seja, frutas e legumes/vegetais.
 
