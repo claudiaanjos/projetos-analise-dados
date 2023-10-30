@@ -131,7 +131,9 @@ Mais informações sobre os dados e o dicionário das variáveis estão disponí
 
 * Análise de Reorder Por Corredor
 
+<div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto03/images/image10.png" width="60%"/>
+</div>
 
 > O corredor *baking supplies decor* recebeu menos novos pedidos, enquanto o corredor *bread* tem uma quantidade grande de novos pedidos.
 
