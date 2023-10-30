@@ -123,7 +123,9 @@ Mais informações sobre os dados e o dicionário das variáveis estão disponí
 
 * Análise de Reorder Por Departamento ao Longo do Tempo
 
+<div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto03/images/image09.png" width="60%"/>
+</div>
 
 > Alguns departamentos tiveram poucos itens comprados novamente como *personal care*, e outros, como o *daily eggs*, teve vários pedidos refeitos.
 
