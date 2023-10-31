@@ -113,6 +113,8 @@ Mais informações sobre os dados e o dicionário das variáveis estão disponí
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto03/images/image05.png" width="80%"/>
 </div>
 
+&nbsp;
+
 > O departamento que tem o maior número de pedidos é *produce*. Produce é um departmento com produtos frescos, ou seja, frutas e legumes/vegetais.
 
 * Quais os 20 Principais Corredores Por Frequência de Pedidos?
