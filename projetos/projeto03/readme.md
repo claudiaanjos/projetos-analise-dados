@@ -65,6 +65,8 @@ Mais informações sobre os dados e o dicionário das variáveis estão disponí
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto03/images/image11.png" width="40%"/>
 </div>
 
+&nbsp;
+
 ## Análise
 
 * Qual o Número de Pedidos Mais Frequente Entre os Usuários?
