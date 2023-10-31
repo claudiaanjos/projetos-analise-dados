@@ -59,6 +59,8 @@ Mais informações sobre os dados e o dicionário das variáveis estão disponí
 * A variável *days_since_prior_order* representa os dias desde o último pedido, limitado a 30 (com NAs para 1 pedido). Ela apresentou um percentual de 6,4% de dados ausentes. Iremos mantê-la no conjunto, dado esse baixo percentual e porque não a usaremos com o algoritmo MBA.
 * Realizamos o agrupamento dos dados para aplicar o algoritmo Apriori e prepararamos o dataset com todas as transações. Para cada id do pedido atribuimos uma lista com os ids dos produtos do mesmo. Tivemos o seguinte resultado do novo dataframe:
 
+&nbsp;
+
 <div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto03/images/image11.png" width="40%"/>
 </div>
