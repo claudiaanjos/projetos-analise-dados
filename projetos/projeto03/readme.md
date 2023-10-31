@@ -125,6 +125,8 @@ Mais informações sobre os dados e o dicionário das variáveis estão disponí
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto03/images/image06.png" width="80%"/>
 </div>
 
+&nbsp;
+
 > Os corredores com maior número de pedidos são os de frutas e vegetais. Perceba que esses dois corredores são do departamento de *produce*, como visto anteriormente.
 
 * Quais os 20 Principais Produtos Por Frequência de Pedidos?
