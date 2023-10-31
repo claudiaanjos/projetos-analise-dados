@@ -137,6 +137,8 @@ Mais informações sobre os dados e o dicionário das variáveis estão disponí
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto03/images/image07.png" width="80%"/>
 </div>
 
+&nbsp;
+
 > O produto com maior frequência de pedido é banana.
 
 * Análise de Novos Pedidos Semelhantes a Pedidos Anteriores (reorder)
