@@ -161,6 +161,8 @@ Mais informações sobre os dados e o dicionário das variáveis estão disponí
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto03/images/image09.png" width="60%"/>
 </div>
 
+&nbsp;
+
 > Alguns departamentos tiveram poucos itens comprados novamente como *personal care*, e outros, como o *daily eggs*, teve vários pedidos refeitos.
 
 * Análise de Reorder Por Corredor
