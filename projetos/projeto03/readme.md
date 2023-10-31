@@ -167,6 +167,8 @@ Mais informações sobre os dados e o dicionário das variáveis estão disponí
 
 * Análise de Reorder Por Corredor
 
+&nbsp;
+
 <div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto03/images/image10.png" width="60%"/>
 </div>
