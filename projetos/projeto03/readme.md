@@ -143,6 +143,8 @@ Mais informações sobre os dados e o dicionário das variáveis estão disponí
 
 * Análise de Novos Pedidos Semelhantes a Pedidos Anteriores (reorder)
 
+&nbsp;
+
 <div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto03/images/image08.png" width="80%"/>
 </div>
