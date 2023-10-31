@@ -89,6 +89,8 @@ Mais informações sobre os dados e o dicionário das variáveis estão disponí
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto03/images/image03.png" width="60%"/>
 </div>
 
+&nbsp;
+
 > Os dias com maior número de pedidos são domigo e segunda-feira.
 
 * Qual Hora do Dia Tem o Maior Número de Pedidos?
