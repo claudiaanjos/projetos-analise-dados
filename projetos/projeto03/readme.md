@@ -149,6 +149,8 @@ Mais informações sobre os dados e o dicionário das variáveis estão disponí
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto03/images/image08.png" width="80%"/>
 </div>
 
+&nbsp;
+
 > No gráfico de barras empilhadas, podemos observar que temos uma proporção semelhante das barras, ou seja, os clientes compram novamente o mesmo produto. 
 
 * Análise de Reorder Por Departamento ao Longo do Tempo
