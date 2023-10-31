@@ -173,6 +173,8 @@ Mais informações sobre os dados e o dicionário das variáveis estão disponí
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto03/images/image10.png" width="60%"/>
 </div>
 
+&nbsp;
+
 > O corredor *baking supplies decor* recebeu menos novos pedidos, enquanto o corredor *bread* tem uma quantidade grande de novos pedidos.
 
 * Adição de produtos no carrinho vs novos pedidos
