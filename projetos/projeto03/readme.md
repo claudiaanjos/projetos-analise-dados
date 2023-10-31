@@ -77,6 +77,8 @@ Mais informações sobre os dados e o dicionário das variáveis estão disponí
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto03/images/image02.png" width="80%"/>
 </div>
 
+&nbsp;
+
 > A maioria dos clientes fez quatro pedidos. A menor frequência está entre 70 e 99 pedidos.
 
 * Qual Dia da Semana Tem o Maior Número de Pedidos?
