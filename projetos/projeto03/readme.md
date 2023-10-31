@@ -95,6 +95,8 @@ Mais informações sobre os dados e o dicionário das variáveis estão disponí
 
 * Qual Hora do Dia Tem o Maior Número de Pedidos?
 
+&nbsp;
+
 <div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto03/images/image04.png" width="80%"/>
 </div>
