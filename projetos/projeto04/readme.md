@@ -48,6 +48,8 @@ Mais informações sobre os dados e o dicionário das variáveis estão disponí
 
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto04/images/image02.png"/>
 
+&nbsp;
+
 * As variáveis **city_development_index** e **training_hours** não apresentam uma distribuição normal. Os boxplots são inversos. A maioria dos registros de CDI está abaixo da mediana. A maioria dos registros de horas de treinamentos está acima da mediana. Temos outliers em ambas variáveis.
 
 * Quanto aos dados de **training_hours**, observamos uma concentração principalmente no lado esquerdo do histograma. Esse padrão é esperado, uma vez que as pessoas costumam iniciar os treinamentos com entusiasmo, mas nem todos que começam conseguem concluir a jornada.
