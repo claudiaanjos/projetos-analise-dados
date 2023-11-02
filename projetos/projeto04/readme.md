@@ -88,6 +88,8 @@ Mais informações sobre os dados e o dicionário das variáveis estão disponí
 
 * O gráfico nos mostra a ordenação dos recursos com base em sua capacidade preditiva em relação à variável alvo. Considerando o IV, identificamos que **enrolled_university** é um preditor de média importância, enquanto **relevent_experience** e **education_level** são preditores fracos. Os demais apresentam baixa utilidade para a previsão.
 
+&nbsp;
+
 <div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto04/images/image05.png" width="60%"/>
 </div>
