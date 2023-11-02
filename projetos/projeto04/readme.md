@@ -74,6 +74,8 @@ Mais informações sobre os dados e o dicionário das variáveis estão disponí
 
     - A relação entre horas de treinamento e outras variáveis é praticamente nula.
 
+&nbsp;
+
 <div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto04/images/image04.png" width="60%"/>
 </div>
