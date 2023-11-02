@@ -80,6 +80,8 @@ Mais informações sobre os dados e o dicionário das variáveis estão disponí
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto04/images/image04.png" width="60%"/>
 </div>
 
+&nbsp;
+
 * Este conjunto de dados contém mais dados com tipo categórico do que numérico. Usamos recursos categóricos nominais para WOE e IV no intuito de ajudar a identificar a importância preditiva das variáveis em relação à variável alvo.
 
 >O "Weight of Evidence" (WOE) e o "Information Value" (IV) são medidas usadas para avaliar o poder discriminatório das variáveis em modelos estatísticos. O WOE mede a relação entre uma variável independente e um evento, com valores mais altos indicando uma relação mais forte. O IV resume o poder discriminatório de uma variável, sendo maior quando a variável é mais informativa para prever um evento binário.
