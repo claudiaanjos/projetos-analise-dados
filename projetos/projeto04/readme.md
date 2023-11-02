@@ -60,6 +60,8 @@ Mais informações sobre os dados e o dicionário das variáveis estão disponí
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto04/images/image03.png" width="80%"/>
 </div>
 
+&nbsp;
+
 * Mapa de Correlação:
 
     - Para o mapa de correlação realizamos uma conversão numérica temporária das variáveis **experience** e **last_new_job**.
