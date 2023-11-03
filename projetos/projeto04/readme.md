@@ -145,15 +145,3 @@ O RH pode focar na busca por candidatos que provenham de cidades com baixo Índi
 Considerando que muitas pessoas completam o treinamento em um curto período, o RH pode otimizar a duração do treinamento, tornando-o mais eficiente e condizente com as necessidades dos candidatos.
 
 Esperamos que estas recomendações sejam úteis para aprimorar o processo de seleção e treinamento de candidatos.
-
-
-
-
-
-
-
-
-
-
-
-
