@@ -104,6 +104,8 @@ Mais informações sobre os dados e o dicionário das variáveis estão disponí
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto04/images/image06.png" width="60%"/>
 </div>
 
+&nbsp;
+
 * Os valores ausentes foram tratados da seguinte forma para cada variável:
 
     - **major_discipline**: representa a área de estudo do candidato e está realacionado à graduação e pós-graduação. Por isso, os registros ausentes que correspondiam ao *High School* (Ensino Médio), *Primary School* (Ensino Básico/Fundamental) e **NaN** na variável **education_level** (nível educacional) foram substituidos por *Non Degree*. Para o restante imputamos o valor *Other*.
