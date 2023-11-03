@@ -94,6 +94,8 @@ Mais informações sobre os dados e o dicionário das variáveis estão disponí
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto04/images/image05.png" width="60%"/>
 </div>
 
+&nbsp;
+
 * Não temos valores duplicados, porém temos valores ausentes que apresentam um padrão aleatório (confome mapa abaixo).
 
 <div align='center'>
