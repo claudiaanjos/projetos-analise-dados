@@ -98,6 +98,8 @@ Mais informações sobre os dados e o dicionário das variáveis estão disponí
 
 * Não temos valores duplicados, porém temos valores ausentes que apresentam um padrão aleatório (confome mapa abaixo).
 
+&nbsp;
+
 <div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto04/images/image06.png" width="60%"/>
 </div>
