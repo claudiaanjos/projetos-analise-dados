@@ -25,7 +25,7 @@ Sinta-se à vontade e se quiser tirar dúvidas, compartilhar ideias, sugestões 
 
 🤝 Agradeço por explorar meus projetos! 
 
-&nbsp;
+#
 
 <div>
   <p align="left">
