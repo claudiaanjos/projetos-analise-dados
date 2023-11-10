@@ -163,6 +163,8 @@ Após avaliação do conjunto de dados, identificamos e solucionamos algumas que
 
 ## Dashboards Power BI
 
+Você acessar o dashboars [aqui](https://app.powerbi.com/view?r=eyJrIjoiZDFhMDhhZTYtNzE1MC00MmFhLTlkYjgtM2ZhNzcwNzAxMDY3IiwidCI6IjEzNWZkMWI3LWE5MDUtNGRhMC1hNmQ2LTgxMGJmYTJmNTJmYyJ9)
+
 ### Dashboard Geral
 
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/bb573e6051737608ea38effa44e924bd8b4f1c67/projetos/projeto01/images/image14.png"/>
