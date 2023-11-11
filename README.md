@@ -28,9 +28,8 @@ Sinta-se à vontade e se quiser tirar dúvidas, compartilhar ideias, sugestões 
 #
 
 <div>
-  <p align="left">
-    <a href="https://www.linkedin.com/in/claudia-anjos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin" target="_blank"></a>
-    <a href="https://medium.com/@ndosanjosc" target="_blank"><img src="https://img.shields.io/badge/-Medium-FF5722?style=for-the-badge&logo=medium" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/claudia-anjos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://medium.com/@ndosanjosc" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 </div>
 
 
