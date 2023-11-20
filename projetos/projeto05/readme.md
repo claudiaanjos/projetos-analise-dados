@@ -196,7 +196,7 @@ Para consolidar todas as informações de maneira clara, vamos criar uma tabela 
 &nbsp;
 
 <div align='center'>
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image12.png" width="60%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image12.png" width="50%"/>
 </div>
 
 &nbsp;
@@ -208,7 +208,7 @@ Para aprimorar a análise, Danny precisa de mais informações sobre a classific
 &nbsp;
 
 <div align='center'>
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image13.png" width="60%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image13.png" width="50%"/>
 </div>
 
 &nbsp;
