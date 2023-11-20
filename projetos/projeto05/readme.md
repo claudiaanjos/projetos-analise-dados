@@ -116,9 +116,13 @@ Os scripts das análises encontram-se no arquivo *analise.sql*.
 
 >Tanto para os clientes A quanto C, o destaque vai para o ramen, adquirido em três ocasiões por cada um. No entanto, o cliente B não apresentou um item mais popular, pois distribuiu suas escolhas de maneira equitativa, comprando todos os produtos duas vezes cada. 
 
+&nbsp;
+
 <div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image06.png" width="60%"/>
 </div>
+
+&nbsp;
 
 * Qual foi o primeiro item adquirido por cada cliente após tornar-se membro?
 
