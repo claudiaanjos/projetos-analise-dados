@@ -99,6 +99,14 @@ GROUP BY cliente_id;
 
 &nbsp;
 
+```
+SELECT 
+  	customer_id                 AS cliente_id,
+    count(DISTINCT order_date)  AS total_visitas 
+FROM dannys_diner.sales sales
+GROUP BY cliente_id;
+```
+
 * Qual foi o primeiro item do cardápio comprado por cada cliente?
 
 >Na primeira compra, o cliente A escolheu curry e sushi, enquanto o cliente B optou por curry e o cliente C selecionou ramen.
