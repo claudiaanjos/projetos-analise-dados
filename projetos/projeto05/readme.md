@@ -63,7 +63,7 @@ Os scripts de criação e inserção de dados estão no arquivo [tabelas.sql](ht
 
 ## Análises
 
-Os scripts das análises encontram-se no arquivo *analise.sql*.
+Os scripts das análises encontram-se no arquivo [analise.sql](https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/analise.sql).
 
 * Qual é o valor total gasto por cada cliente no restaurante?
 
@@ -77,6 +77,16 @@ Os scripts das análises encontram-se no arquivo *analise.sql*.
 
 &nbsp;
 
+```
+SELECT
+  	sales.customer_id AS cliente_id,
+    sum(price)        AS total_gasto 
+FROM       dannys_diner.sales  sales
+INNER JOIN dannys_diner.menu   menu
+ON sales.product_id = menu.product_id
+GROUP BY cliente_id;
+```
+
 * Quantos dias cada cliente visitou o restaurante?
 
 >Apesar de o cliente A ter registrado o maior gasto, o cliente B foi quem mais frequentou o restaurante, realizando um total de 6 visitas. O cliente A compareceu em 4 ocasiões, enquanto o cliente C esteve presente em 2 dias distintos. 
@@ -88,7 +98,6 @@ Os scripts das análises encontram-se no arquivo *analise.sql*.
 </div>
 
 &nbsp;
-
 
 * Qual foi o primeiro item do cardápio comprado por cada cliente?
 
