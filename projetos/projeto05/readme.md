@@ -72,7 +72,7 @@ Os scripts das análises encontram-se no arquivo [analise.sql](https://github.co
 &nbsp;
 
 <div align='center'>
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/script01.png" width="50%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image22.png" width="50%"/>
 </div>
 
 &nbsp;
