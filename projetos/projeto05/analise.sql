@@ -144,8 +144,7 @@ SELECT
 	sales.customer_id AS cliente_id,
 	sum(
 		CASE
-			WHEN menu.product_name = 'sushi' 
-      		THEN menu.price * 10 * 2
+			WHEN menu.product_name = 'sushi' THEN menu.price * 10 * 2
 			ELSE menu.price * 10
 		END) AS pontos
 FROM       dannys_diner.sales  sales
@@ -176,13 +175,12 @@ WITH pontuacao AS (
     ON sales.customer_id = members.customer_id)
 
 SELECT 
-	sum(CASE
-    	WHEN data_pedido >= adesao AND data_pedido <= uma_semana 
-		THEN valor * 20
-    	WHEN produto = 'sushi' 
-		THEN valor * 20
-    	ELSE valor * 10
-  	END) AS pontos,
+	sum(
+		CASE
+			WHEN data_pedido >= adesao AND data_pedido <= uma_semana THEN valor * 20 
+			WHEN produto = 'sushi' THEN valor * 20
+			ELSE valor * 10
+		END) AS pontos,
 	cliente_id
 FROM pontuacao
 WHERE data_pedido < '2021-02-01'
@@ -198,11 +196,9 @@ SELECT
 	menu.product_name  AS produto,
 	menu.price         AS valor,
 	CASE 
-		WHEN members.join_date > sales.order_date 
-		THEN 'Não'
-        WHEN members.join_date <= sales.order_date 
-		THEN 'Sim'
-        ELSE 'Não' 
+		WHEN members.join_date > sales.order_date  THEN 'Não'
+		WHEN members.join_date <= sales.order_date THEN 'Sim'
+		ELSE 'Não' 
 	END AS membro
 FROM      dannys_diner.sales sales
 LEFT JOIN dannys_diner.menu  menu 
@@ -220,8 +216,7 @@ SELECT * FROM status_membro;
 SELECT 
 	*,
 	CASE 
-		WHEN membro = 'Não' 
-		THEN NULL
-    	ELSE dense_rank() OVER (PARTITION BY cliente_id, membro ORDER BY data_pedido) 
+		WHEN membro = 'Não' THEN NULL
+		ELSE dense_rank() OVER (PARTITION BY cliente_id, membro ORDER BY data_pedido) 
 	END AS ranking
 FROM status_membro;
