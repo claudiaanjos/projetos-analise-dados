@@ -65,14 +65,20 @@ Os scripts de criação e inserção de dados estão no arquivo [tabelas.sql](ht
 
 Os scripts das análises encontram-se no arquivo [analise.sql](https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/analise.sql).
 
-* Qual é o valor total gasto por cada cliente no restaurante?
+* **Qual é o valor total gasto por cada cliente no restaurante?**
 
 >O cliente A teve a maior despesa, totalizando $76, seguido pelo cliente B, que gastou $74, e o cliente C, cujo total foi de $36.
 
 &nbsp;
 
 <div align='center'>
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image02.png" width="60%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/script01.png" width="70%"/>
+</div>
+
+&nbsp;
+
+<div align='center'>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image02.png" width="70%"/>
 </div>
 
 &nbsp;
