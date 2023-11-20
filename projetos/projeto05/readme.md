@@ -67,7 +67,7 @@ Os scripts das análises encontram-se no arquivo [analise.sql](https://github.co
 
 * Qual é o valor total gasto por cada cliente no restaurante?
 
-**O cliente A teve a maior despesa, totalizando $76, seguido pelo cliente B, que gastou $74, e o cliente C, cujo total foi de $36.**
+>O cliente A teve a maior despesa, totalizando $76, seguido pelo cliente B, que gastou $74, e o cliente C, cujo total foi de $36.
 
 &nbsp;
 
@@ -76,16 +76,6 @@ Os scripts das análises encontram-se no arquivo [analise.sql](https://github.co
 </div>
 
 &nbsp;
-
-```
-SELECT
-    sales.customer_id AS cliente_id,
-    sum(price)        AS total_gasto 
-FROM       dannys_diner.sales  sales
-INNER JOIN dannys_diner.menu   menu
-ON sales.product_id = menu.product_id
-GROUP BY cliente_id;
-```
 
 * Quantos dias cada cliente visitou o restaurante?
 
@@ -99,14 +89,6 @@ GROUP BY cliente_id;
 
 &nbsp;
 
-```
-SELECT 
-    customer_id                 AS cliente_id,
-    count(DISTINCT order_date)  AS total_visitas 
-FROM dannys_diner.sales sales
-GROUP BY cliente_id;
-```
-
 * Qual foi o primeiro item do cardápio comprado por cada cliente?
 
 >Na primeira compra, o cliente A escolheu curry e sushi, enquanto o cliente B optou por curry e o cliente C selecionou ramen.
@@ -118,25 +100,6 @@ GROUP BY cliente_id;
 </div>
 
 &nbsp;
-
-```
-WITH primeiro_ranking AS (
-	SELECT 
-		sales.customer_id, 
-  		sales.order_date, 
-  		menu.product_name,
-		dense_rank() OVER (PARTITION BY sales.customer_id ORDER BY sales.order_date) AS dr
-	FROM       dannys_diner.sales  sales
-	INNER JOIN dannys_diner.menu   menu 
-	ON sales.product_id = menu.product_id);
-
-SELECT 
-  	customer_id  AS cliente_id,
-    product_name AS primeiro_produto_adquirido 
-FROM primeiro_ranking
-WHERE dr = 1
-GROUP BY cliente_id, primeiro_produto_adquirido;
-```
 
 * Qual é o item mais comprado no cardápio e quantas vezes foi pedido por todos os clientes?
 
