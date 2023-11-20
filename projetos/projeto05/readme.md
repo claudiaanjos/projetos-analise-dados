@@ -152,6 +152,8 @@ Os scripts das análises encontram-se no arquivo *analise.sql*.
 
 >Antes de se tornar membro, o cliente A adquiriu dois itens, totalizando um gasto de $25, enquanto o cliente B fez três pedidos, somando um valor de $40.
 
+&nbsp;
+
 <div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image09.png" width="60%"/>
 </div>
