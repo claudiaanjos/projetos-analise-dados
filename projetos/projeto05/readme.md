@@ -67,17 +67,20 @@ Os scripts das análises encontram-se no arquivo *analise.sql*.
 
 >O cliente A teve a maior despesa, totalizando $76, seguido pelo cliente B, que gastou $74, e o cliente C, cujo total foi de $36.
 
+&nbsp;
+
 <div align='center'>
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image02.png" width="50%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image02.png" width="60%"/>
 </div>
 
+&nbsp;
 
 * Quantos dias cada cliente visitou o restaurante?
 
 >Apesar de o cliente A ter registrado o maior gasto, o cliente B foi quem mais frequentou o restaurante, realizando um total de 6 visitas. O cliente A compareceu em 4 ocasiões, enquanto o cliente C esteve presente em 2 dias distintos. 
 
 <div align='center'>
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image03.png" width="80%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image03.png" width="60%"/>
 </div>
 
 
@@ -86,40 +89,16 @@ Os scripts das análises encontram-se no arquivo *analise.sql*.
 >Na primeira compra, o cliente A escolheu curry e sushi, enquanto o cliente B optou por curry e o cliente C selecionou ramen.
 
 <div align='center'>
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image04.png" width="80%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image04.png" width="60%"/>
 </div>
 
-```
-WITH primeiro_ranking AS (
-	SELECT 
-		sales.customer_id, 
-  		sales.order_date, 
-  		menu.product_name,
-		dense_rank() OVER (PARTITION BY sales.customer_id ORDER BY sales.order_date) AS dr
-	FROM       dannys_diner.sales  sales
-	INNER JOIN dannys_diner.menu   menu 
-	ON sales.product_id = menu.product_id);
-
-SELECT 
-  	customer_id  AS cliente_id,
-    product_name AS primeiro_produto_adquirido 
-FROM primeiro_ranking
-WHERE dr = 1
-GROUP BY cliente_id, primeiro_produto_adquirido;
-```
-
-Para essa consulta utilizamos uma Common Table Expression (CTE) chamada "primeiro_ranking" com a cláusula *WITH*. A CTE é uma tabela temporária que pode ser usada dentro da consulta principal. Nesse caso, ela contém informações sobre vendas e produtos.
-
-A função *dense_rank()* é uma função de janela em SQL que atribui um ranking denso às linhas resultantes. Cada item recebe um número de ranking único, e os números não são interrompidos ou pulados, mesmo se houver empates nos valores. Com o *partition by* especificamos que o ranking é reiniciado para cada cliente e com o *order by* a ordem do com base na data do pedido.
-
-Em resumo, esse código usa uma CTE para calcular o ranking denso das vendas por cliente e, em seguida, seleciona informações específicas para clientes cujo ranking é 1(dr=1), ou seja, aqueles que adquiriram seu primeiro produto.
 
 * Qual é o item mais comprado no cardápio e quantas vezes foi pedido por todos os clientes?
 
 >O ramen se destaca como o item mais solicitado, totalizando 8 pedidos entre todos os clientes.
 
 <div align='center'>
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image05.png" width="80%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image05.png" width="60%"/>
 </div>
 
 * Qual item foi mais popular para cada cliente?
@@ -127,7 +106,7 @@ Em resumo, esse código usa uma CTE para calcular o ranking denso das vendas por
 >Tanto para os clientes A quanto C, o destaque vai para o ramen, adquirido em três ocasiões por cada um. No entanto, o cliente B não apresentou um item mais popular, pois distribuiu suas escolhas de maneira equitativa, comprando todos os produtos duas vezes cada. 
 
 <div align='center'>
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image06.png" width="80%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image06.png" width="60%"/>
 </div>
 
 * Qual foi o primeiro item adquirido por cada cliente após tornar-se membro?
@@ -135,7 +114,7 @@ Em resumo, esse código usa uma CTE para calcular o ranking denso das vendas por
 >Após tornar-se membro do restaurante, o cliente A fez seu primeiro pedido escolhendo o ramen, enquanto o cliente B optou por sushi. Vale ressaltar que o cliente C não faz parte do programa de membros.
 
 <div align='center'>
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image07.png" width="80%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image07.png" width="60%"/>
 </div>
 
 * Qual item foi adquirido antes de o cliente se tornar um membro?
@@ -143,7 +122,7 @@ Em resumo, esse código usa uma CTE para calcular o ranking denso das vendas por
 >Antes de tornar-se membro, o cliente A fez um pedido que incluía sushi e curry, enquanto o cliente B optou por sushi.
 
 <div align='center'>
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image08.png" width="80%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image08.png" width="60%"/>
 </div>
 
 
@@ -152,7 +131,7 @@ Em resumo, esse código usa uma CTE para calcular o ranking denso das vendas por
 >Antes de se tornar membro, o cliente A adquiriu dois itens, totalizando um gasto de $25, enquanto o cliente B fez três pedidos, somando um valor de $40.
 
 <div align='center'>
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image09.png" width="80%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image09.png" width="60%"/>
 </div>
 
 * Se cada $1 gasto equivale a 10 pontos e o sushi tem um multiplicador de pontos de 2x, quantos pontos cada cliente teria?
@@ -160,7 +139,7 @@ Em resumo, esse código usa uma CTE para calcular o ranking denso das vendas por
 >A pontuação de cada cliente seria a seguinte: o cliente A acumularia 860 pontos, o cliente B atingiria 940 pontos, e o cliente C alcançaria 360 pontos. Nota-se que o cliente B possui a pontuação mais alta, ao passo que o cliente C registra a menor pontuação.
 
 <div align='center'>
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image10.png" width="80%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image10.png" width="60%"/>
 </div>
 
 * Durante a primeira semana após a adesão de um cliente ao programa (incluindo a data de inscrição), eles recebem pontos em dobro em todos os itens, não se limitando ao sushi. Ao considerar essa promoção, quantos pontos os clientes A e B acumulariam no final de janeiro?
@@ -168,7 +147,7 @@ Em resumo, esse código usa uma CTE para calcular o ranking denso das vendas por
 >Dadas essas condições, ao final de janeiro, o cliente A teria acumulado 1370 pontos, enquanto o cliente B atingiria 820 pontos. Isso reflete não apenas o gasto em produtos, mas também o benefício adicional da promoção da primeira semana para ambos os clientes.
 
 <div align='center'>
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image11.png" width="80%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image11.png" width="60%"/>
 </div>
 
 
@@ -181,7 +160,7 @@ As questões a seguir estão relacionadas à criação de tabelas de dados que D
 Para consolidar todas as informações de maneira clara, vamos criar uma tabela que inclua dados essenciais sobre cada transação. A tabela deve conter as seguintes colunas: Identificação do Cliente, Data do Pedido, Produto Adquirido, Valor da Compra e Indicação de Participação no Programa de Membros.
 
 <div align='center'>
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image12.png" width="80%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image12.png" width="60%"/>
 </div>
 
 
@@ -190,7 +169,7 @@ Para consolidar todas as informações de maneira clara, vamos criar uma tabela 
 Para aprimorar a análise, Danny precisa de mais informações sobre a classificação dos produtos pelos clientes. No entanto, ele especificamente dispensa a classificação para compras de não membros, e, portanto, espera valores de classificação nulos nos registros quando os clientes ainda não fazem parte do programa de fidelidade.
 
 <div align='center'>
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image13.png" width="80%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image13.png" width="60%"/>
 </div>
 
 ## Relatório
