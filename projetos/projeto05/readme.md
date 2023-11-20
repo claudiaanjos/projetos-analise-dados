@@ -1,5 +1,5 @@
 <div align='center'>
-    <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image00.png" width="80%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image00.png" width="80%"/>
 </div>
 
 &nbsp;
@@ -63,7 +63,7 @@ Os scripts de criação e inserção de dados estão no arquivo [tabelas.sql](ht
 
 ## Análises
 
-Os scripts das análises encontram-se no arquivo [analise.sql](https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/analise.sql).
+Os scripts das análises podem ser acessados no arquivo [analise.sql](https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/analise.sql).
 
 * **Qual é o valor total gasto por cada cliente no restaurante?**
 
@@ -72,13 +72,11 @@ Os scripts das análises encontram-se no arquivo [analise.sql](https://github.co
 &nbsp;
 
 <div align='center'>
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/script05.png" width="50%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/script01.png" width="60%"/>
 </div>
 
-&nbsp;
-
 <div align='center'>
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image02.png" width="70%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image02.png" width="60%"/>
 </div>
 
 &nbsp;
@@ -90,9 +88,8 @@ Os scripts das análises encontram-se no arquivo [analise.sql](https://github.co
 &nbsp;
 
 <div align='center'>
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/script05.png" width="60%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/script02.png" width="60%"/>
 </div>
-
 
 <div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image03.png" width="60%"/>
@@ -107,6 +104,10 @@ Os scripts das análises encontram-se no arquivo [analise.sql](https://github.co
 &nbsp;
 
 <div align='center'>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/script03.png" width="60%"/>
+</div>
+
+<div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image04.png" width="60%"/>
 </div>
 
@@ -117,6 +118,10 @@ Os scripts das análises encontram-se no arquivo [analise.sql](https://github.co
 >O ramen se destaca como o item mais solicitado, totalizando 8 pedidos entre todos os clientes.
 
 &nbsp;
+
+<div align='center'>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/script04.png" width="60%"/>
+</div>
 
 <div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image05.png" width="60%"/>
@@ -131,6 +136,10 @@ Os scripts das análises encontram-se no arquivo [analise.sql](https://github.co
 &nbsp;
 
 <div align='center'>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/script05.png" width="60%"/>
+</div>
+
+<div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image06.png" width="60%"/>
 </div>
 
@@ -141,6 +150,10 @@ Os scripts das análises encontram-se no arquivo [analise.sql](https://github.co
 >Após tornar-se membro do restaurante, o cliente A fez seu primeiro pedido escolhendo o ramen, enquanto o cliente B optou por sushi. Vale ressaltar que o cliente C não faz parte do programa de membros.
 
 &nbsp;
+
+<div align='center'>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/script06.png" width="60%"/>
+</div>
 
 <div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image07.png" width="60%"/>
@@ -155,6 +168,10 @@ Os scripts das análises encontram-se no arquivo [analise.sql](https://github.co
 &nbsp;
 
 <div align='center'>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/script07.png" width="60%"/>
+</div>
+
+<div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image08.png" width="60%"/>
 </div>
 
@@ -165,6 +182,10 @@ Os scripts das análises encontram-se no arquivo [analise.sql](https://github.co
 >Antes de se tornar membro, o cliente A adquiriu dois itens, totalizando um gasto de $25, enquanto o cliente B fez três pedidos, somando um valor de $40.
 
 &nbsp;
+
+<div align='center'>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/script08.png" width="60%"/>
+</div>
 
 <div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image09.png" width="60%"/>
@@ -179,6 +200,10 @@ Os scripts das análises encontram-se no arquivo [analise.sql](https://github.co
 &nbsp;
 
 <div align='center'>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/script09.png" width="60%"/>
+</div>
+
+<div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image10.png" width="60%"/>
 </div>
 
@@ -189,6 +214,10 @@ Os scripts das análises encontram-se no arquivo [analise.sql](https://github.co
 >Dadas essas condições, ao final de janeiro, o cliente A teria acumulado 1370 pontos, enquanto o cliente B atingiria 820 pontos. Isso reflete não apenas o gasto em produtos, mas também o benefício adicional da promoção da primeira semana para ambos os clientes.
 
 &nbsp;
+
+<div align='center'>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/script10.png" width="60%"/>
+</div>
 
 <div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image11.png" width="60%"/>
@@ -208,6 +237,10 @@ Para consolidar todas as informações de maneira clara, vamos criar uma tabela 
 &nbsp;
 
 <div align='center'>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/script11.png" width="50%"/>
+</div>
+
+<div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image12.png" width="50%"/>
 </div>
 
@@ -218,6 +251,10 @@ Para consolidar todas as informações de maneira clara, vamos criar uma tabela 
 Para aprimorar a análise, Danny precisa de mais informações sobre a classificação dos produtos pelos clientes. No entanto, ele especificamente dispensa a classificação para compras de não membros, e, portanto, espera valores de classificação nulos nos registros quando os clientes ainda não fazem parte do programa de fidelidade.
 
 &nbsp;
+
+<div align='center'>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/script12.png" width="50%"/>
+</div>
 
 <div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image13.png" width="50%"/>
