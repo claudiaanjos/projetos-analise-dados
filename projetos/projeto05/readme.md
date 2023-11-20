@@ -104,6 +104,8 @@ Os scripts das análises encontram-se no arquivo *analise.sql*.
 
 >O ramen se destaca como o item mais solicitado, totalizando 8 pedidos entre todos os clientes.
 
+&nbsp;
+
 <div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image05.png" width="60%"/>
 </div>
