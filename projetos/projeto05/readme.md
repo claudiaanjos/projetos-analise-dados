@@ -110,6 +110,8 @@ Os scripts das análises encontram-se no arquivo *analise.sql*.
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image05.png" width="60%"/>
 </div>
 
+&nbsp;
+
 * Qual item foi mais popular para cada cliente?
 
 >Tanto para os clientes A quanto C, o destaque vai para o ramen, adquirido em três ocasiões por cada um. No entanto, o cliente B não apresentou um item mais popular, pois distribuiu suas escolhas de maneira equitativa, comprando todos os produtos duas vezes cada. 
