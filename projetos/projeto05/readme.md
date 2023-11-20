@@ -79,9 +79,13 @@ Os scripts das análises encontram-se no arquivo *analise.sql*.
 
 >Apesar de o cliente A ter registrado o maior gasto, o cliente B foi quem mais frequentou o restaurante, realizando um total de 6 visitas. O cliente A compareceu em 4 ocasiões, enquanto o cliente C esteve presente em 2 dias distintos. 
 
+&nbsp;
+
 <div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image03.png" width="60%"/>
 </div>
+
+&nbsp;
 
 
 * Qual foi o primeiro item do cardápio comprado por cada cliente?
