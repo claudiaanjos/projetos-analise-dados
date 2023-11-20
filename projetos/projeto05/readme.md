@@ -79,8 +79,8 @@ Os scripts das análises encontram-se no arquivo [analise.sql](https://github.co
 
 ```
 SELECT
-sales.customer_id AS cliente_id,
-sum(price)        AS total_gasto 
+    sales.customer_id AS cliente_id,
+    sum(price)        AS total_gasto 
 FROM       dannys_diner.sales  sales
 INNER JOIN dannys_diner.menu   menu
 ON sales.product_id = menu.product_id
