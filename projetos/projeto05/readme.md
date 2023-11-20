@@ -176,9 +176,13 @@ Os scripts das análises encontram-se no arquivo *analise.sql*.
 
 >Dadas essas condições, ao final de janeiro, o cliente A teria acumulado 1370 pontos, enquanto o cliente B atingiria 820 pontos. Isso reflete não apenas o gasto em produtos, mas também o benefício adicional da promoção da primeira semana para ambos os clientes.
 
+&nbsp;
+
 <div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image11.png" width="60%"/>
 </div>
+
+&nbsp;
 
 
 ## Extras
