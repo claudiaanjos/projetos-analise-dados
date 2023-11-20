@@ -5,8 +5,8 @@
 -- Qual é o valor total gasto por cada cliente no restaurante?
 
 SELECT
-	sales.customer_id AS cliente_id,
-	sum(price)        AS total_gasto 
+	sales.customer_id 		   AS cliente_id,
+	sum(price)        		   AS total_gasto 
 FROM       dannys_diner.sales  sales
 INNER JOIN dannys_diner.menu   menu
 ON sales.product_id = menu.product_id
@@ -29,7 +29,8 @@ WITH primeiro_ranking AS (
 		sales.customer_id,
 		sales.order_date,
 		menu.product_name,
-		dense_rank() OVER (PARTITION BY sales.customer_id ORDER BY sales.order_date) AS dr
+		dense_rank() OVER(PARTITION BY sales.customer_id 
+		ORDER BY sales.order_date) AS dr
 	FROM       dannys_diner.sales  sales
 	INNER JOIN dannys_diner.menu   menu 
 	ON sales.product_id = menu.product_id)
@@ -62,7 +63,8 @@ WITH popular AS (
 		sales.customer_id        AS cliente_id,
 		menu.product_name        AS produto,
 		count(sales.product_id)  AS quantidade_comprada,
-		dense_rank() OVER (PARTITION BY sales.customer_id ORDER BY count(sales.product_id) DESC) AS dr
+		dense_rank() OVER (PARTITION BY sales.customer_id 
+		ORDER BY count(sales.product_id) DESC) AS dr
 	FROM       dannys_diner.sales  sales
 	INNER JOIN dannys_diner.menu   menu 
 	ON sales.product_id = menu.product_id
@@ -82,7 +84,8 @@ WITH primeira_compra AS (
 	SELECT 
 		sales.customer_id,
 		sales.product_id,
-		row_number() OVER (PARTITION BY sales.customer_id ORDER BY sales.order_date) AS rn
+		row_number() OVER (PARTITION BY sales.customer_id 
+		ORDER BY sales.order_date) AS rn
 	FROM       dannys_diner.sales     sales
 	INNER JOIN dannys_diner.members   members  
 	ON sales.customer_id = members.customer_id AND
@@ -104,7 +107,8 @@ WITH comprado AS (
 	SELECT 
 		sales.customer_id,
 		menu.product_name,
-		dense_rank() OVER (PARTITION BY sales.customer_id ORDER BY sales.order_date DESC) AS dr
+		dense_rank() OVER (PARTITION BY sales.customer_id 
+		ORDER BY sales.order_date DESC) AS dr
 	FROM       dannys_diner.sales  sales
 	INNER JOIN dannys_diner.menu   menu 
 	ON sales.product_id = menu.product_id
@@ -144,7 +148,8 @@ SELECT
 	sales.customer_id AS cliente_id,
 	sum(
 		CASE
-			WHEN menu.product_name = 'sushi' THEN menu.price * 10 * 2
+			WHEN menu.product_name = 'sushi' 
+			THEN menu.price * 10 * 2
 			ELSE menu.price * 10
 		END) AS pontos
 FROM       dannys_diner.sales  sales
@@ -177,7 +182,9 @@ WITH pontuacao AS (
 SELECT 
 	sum(
 		CASE
-			WHEN data_pedido >= adesao AND data_pedido <= uma_semana THEN valor * 20 
+			WHEN data_pedido >= adesao 
+			AND data_pedido <= uma_semana 
+			THEN valor * 20 
 			WHEN produto = 'sushi' THEN valor * 20
 			ELSE valor * 10
 		END) AS pontos,
@@ -196,8 +203,10 @@ SELECT
 	menu.product_name  AS produto,
 	menu.price         AS valor,
 	CASE 
-		WHEN members.join_date > sales.order_date  THEN 'Não'
-		WHEN members.join_date <= sales.order_date THEN 'Sim'
+		WHEN members.join_date > sales.order_date  
+		THEN 'Não'
+		WHEN members.join_date <= sales.order_date 
+		THEN 'Sim'
 		ELSE 'Não' 
 	END AS membro
 FROM      dannys_diner.sales sales
@@ -216,7 +225,9 @@ SELECT * FROM status_membro;
 SELECT 
 	*,
 	CASE 
-		WHEN membro = 'Não' THEN NULL
-		ELSE dense_rank() OVER (PARTITION BY cliente_id, membro ORDER BY data_pedido) 
+		WHEN membro = 'Não' 
+		THEN NULL
+		ELSE dense_rank() OVER(PARTITION BY cliente_id, membro 
+		ORDER BY data_pedido) 
 	END AS ranking
 FROM status_membro;
