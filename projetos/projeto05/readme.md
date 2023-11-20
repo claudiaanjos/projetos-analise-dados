@@ -193,10 +193,13 @@ As questões a seguir estão relacionadas à criação de tabelas de dados que D
 
 Para consolidar todas as informações de maneira clara, vamos criar uma tabela que inclua dados essenciais sobre cada transação. A tabela deve conter as seguintes colunas: Identificação do Cliente, Data do Pedido, Produto Adquirido, Valor da Compra e Indicação de Participação no Programa de Membros.
 
+&nbsp;
+
 <div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image12.png" width="60%"/>
 </div>
 
+&nbsp;
 
 * Classificação dos Produtos
 
