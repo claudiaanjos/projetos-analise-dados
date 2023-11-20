@@ -140,6 +140,8 @@ Os scripts das análises encontram-se no arquivo *analise.sql*.
 
 >Antes de tornar-se membro, o cliente A fez um pedido que incluía sushi e curry, enquanto o cliente B optou por sushi.
 
+&nbsp;
+
 <div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image08.png" width="60%"/>
 </div>
