@@ -185,7 +185,7 @@ Os scripts das análises encontram-se no arquivo *analise.sql*.
 &nbsp;
 
 
-## Extras
+### Extras
 
 As questões a seguir estão relacionadas à criação de tabelas de dados que Danny e sua equipe podem usar para obter insights rapidamente sem a necessidade de unir as tabelas subjacentes usando SQL.
 
