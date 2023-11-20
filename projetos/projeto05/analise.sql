@@ -5,8 +5,8 @@
 -- Qual é o valor total gasto por cada cliente no restaurante?
 
 SELECT
-  	sales.customer_id AS cliente_id,
-    sum(price)        AS total_gasto 
+	sales.customer_id AS cliente_id,
+	sum(price)        AS total_gasto 
 FROM       dannys_diner.sales  sales
 INNER JOIN dannys_diner.menu   menu
 ON sales.product_id = menu.product_id
@@ -32,7 +32,7 @@ WITH primeiro_ranking AS (
 		dense_rank() OVER (PARTITION BY sales.customer_id ORDER BY sales.order_date) AS dr
 	FROM       dannys_diner.sales  sales
 	INNER JOIN dannys_diner.menu   menu 
-	ON sales.product_id = menu.product_id);
+	ON sales.product_id = menu.product_id)
 
 SELECT 
   	customer_id  AS cliente_id,
