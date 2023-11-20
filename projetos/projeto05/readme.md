@@ -72,7 +72,7 @@ Os scripts das análises encontram-se no arquivo [analise.sql](https://github.co
 &nbsp;
 
 <div align='center'>
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image13.png" width="45%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image14.png" width="50%"/>
 </div>
 
 &nbsp;
@@ -90,7 +90,7 @@ Os scripts das análises encontram-se no arquivo [analise.sql](https://github.co
 &nbsp;
 
 <div align='center'>
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/script03.png" width="45%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/script03.png" width="60%"/>
 </div>
 
 
