@@ -146,6 +146,7 @@ Os scripts das análises encontram-se no arquivo *analise.sql*.
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image08.png" width="60%"/>
 </div>
 
+&nbsp;
 
 * Qual é o total de itens e valor gasto por cada membro antes de se tornarem membros?
 
