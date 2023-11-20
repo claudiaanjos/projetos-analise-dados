@@ -164,6 +164,8 @@ Os scripts das análises encontram-se no arquivo *analise.sql*.
 
 >A pontuação de cada cliente seria a seguinte: o cliente A acumularia 860 pontos, o cliente B atingiria 940 pontos, e o cliente C alcançaria 360 pontos. Nota-se que o cliente B possui a pontuação mais alta, ao passo que o cliente C registra a menor pontuação.
 
+&nbsp;
+
 <div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image10.png" width="60%"/>
 </div>
