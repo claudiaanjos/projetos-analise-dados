@@ -1,6 +1,6 @@
-/* ----------------------------
-   Perguntas do estudo de caso
-   ----------------------------*/
+/* -------------------------
+   Scripts do estudo de caso
+   -------------------------*/
 
 -- Qual é o valor total gasto por cada cliente no restaurante?
 
