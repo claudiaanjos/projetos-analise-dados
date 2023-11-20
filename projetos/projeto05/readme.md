@@ -92,9 +92,12 @@ Os scripts das análises encontram-se no arquivo *analise.sql*.
 
 >Na primeira compra, o cliente A escolheu curry e sushi, enquanto o cliente B optou por curry e o cliente C selecionou ramen.
 
+&nbsp;
+
 <div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image04.png" width="60%"/>
 </div>
+
 
 
 * Qual é o item mais comprado no cardápio e quantas vezes foi pedido por todos os clientes?
