@@ -53,6 +53,8 @@ Os scripts de criação e inserção de dados estão no arquivo [tabelas.sql](ht
 
 ### Diagrama de Relacionamento de Entidades
 
+&nbsp;
+
 <div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image01.png" width="50%"/>
 </div>
