@@ -128,9 +128,13 @@ Os scripts das análises encontram-se no arquivo *analise.sql*.
 
 >Após tornar-se membro do restaurante, o cliente A fez seu primeiro pedido escolhendo o ramen, enquanto o cliente B optou por sushi. Vale ressaltar que o cliente C não faz parte do programa de membros.
 
+&nbsp;
+
 <div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image07.png" width="60%"/>
 </div>
+
+&nbsp;
 
 * Qual item foi adquirido antes de o cliente se tornar um membro?
 
