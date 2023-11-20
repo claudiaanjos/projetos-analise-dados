@@ -72,7 +72,7 @@ Os scripts das análises encontram-se no arquivo [analise.sql](https://github.co
 &nbsp;
 
 <div align='center'>
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image22.png" width="50%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image13.png" width="45%"/>
 </div>
 
 &nbsp;
@@ -88,6 +88,11 @@ Os scripts das análises encontram-se no arquivo [analise.sql](https://github.co
 >Apesar de o cliente A ter registrado o maior gasto, o cliente B foi quem mais frequentou o restaurante, realizando um total de 6 visitas. O cliente A compareceu em 4 ocasiões, enquanto o cliente C esteve presente em 2 dias distintos. 
 
 &nbsp;
+
+<div align='center'>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/script03.png" width="45%"/>
+</div>
+
 
 <div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image03.png" width="60%"/>
