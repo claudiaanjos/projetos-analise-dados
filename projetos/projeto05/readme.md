@@ -205,9 +205,13 @@ Para consolidar todas as informações de maneira clara, vamos criar uma tabela 
 
 Para aprimorar a análise, Danny precisa de mais informações sobre a classificação dos produtos pelos clientes. No entanto, ele especificamente dispensa a classificação para compras de não membros, e, portanto, espera valores de classificação nulos nos registros quando os clientes ainda não fazem parte do programa de fidelidade.
 
+&nbsp;
+
 <div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image13.png" width="60%"/>
 </div>
+
+&nbsp;
 
 ## Relatório
 
