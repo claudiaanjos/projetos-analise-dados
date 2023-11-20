@@ -2,6 +2,8 @@
     <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image00.png" width="80%"/>
 </div>
 
+&nbsp;
+
 Esse projeto faz parte do [8 Week SQL Challenge](https://8weeksqlchallenge.com/) disponibilizado pelo [Data With Danny](https://www.datawithdanny.com/).
 
 O objetivo do Desafio SQL de 8 Semanas é apoiar os profissionais da área de dados a desenvolver projetos com SQL.
@@ -22,33 +24,29 @@ Ele planeja usar essas informações para decidir se deve expandir o programa de
 
 Danny forneceu uma amostra dos dados gerais de seus clientes devido a questões de privacidade, mas espera que esses exemplos sejam suficientes para você escrever consultas SQL totalmente funcionais para ajudá-lo a responder suas perguntas.
 
-Danny compartilhou três conjuntos de dados-chave para este estudo de caso:
-
-* **sales**
-* **menu**
-* **members**
+Danny compartilhou três conjuntos de dados-chave para este estudo de caso: **sales**, **menu** e **members**.
 
 ## Conjunto de dados
 
 A condução da análise foi realizada com [PostgreSQL](https://www.postgresql.org/) utilizando o [DB Fiddle](https://www.db-fiddle.com/).
 
-Os scripts de criação e inserção de dados estão no arquivo **tabelas.sql**.
+Os scripts de criação e inserção de dados estão no arquivo [tabelas.sql](https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/tabelas.sql).
 
 ### Dicionário das variáveis
 
-Tabela 1: **sales**
+**Tabela 1: sales**
 
 * **customer_id**: Identificador do cliente.
 * **order_date**: Data em que a compra foi feita.
 * **product_id**: Identificador do produto pedido.
 
-Tabela 2: **menu**
+**Tabela 2: menu**
 
 * **product_id**: Identificador do produto.
 * **product_name**: Nome real do produto.
 * **price**: Preço do produto.
 
-Tabela 3: **members**
+**Tabela 3: members**
 
 * **customer_id**: Identificador do cliente.
 * **join_date**: Data de adesão ao programa de fidelidade do Danny's Diner.
@@ -56,8 +54,10 @@ Tabela 3: **members**
 ### Diagrama de Relacionamento de Entidades
 
 <div align='center'>
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image01.png" width="80%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image01.png" width="50%"/>
 </div>
+
+&nbsp;
 
 ## Análises
 
@@ -68,7 +68,7 @@ Os scripts das análises encontram-se no arquivo *analise.sql*.
 >O cliente A teve a maior despesa, totalizando $76, seguido pelo cliente B, que gastou $74, e o cliente C, cujo total foi de $36.
 
 <div align='center'>
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image02.png" width="80%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/images/image02.png" width="50%"/>
 </div>
 
 
