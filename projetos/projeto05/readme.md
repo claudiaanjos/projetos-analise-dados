@@ -6,7 +6,7 @@
 
 Esse projeto faz parte do [8 Week SQL Challenge](https://8weeksqlchallenge.com/) disponibilizado pelo [Data With Danny](https://www.datawithdanny.com/).
 
-O objetivo do Desafio SQL de 8 Semanas é apoiar os profissionais da área de dados a desenvolver projetos com SQL.
+O objetivo do Desafio SQL de 8 Semanas é incentivar profissionais da área de dados a desenvolver projetos com SQL.
 Em cada projeto teremos um estudo de caso com apresentação do cenário, os problemas e os dados.
 Iremos trabalhar no primeiro estudo de caso: [Danny's Diner](https://8weeksqlchallenge.com/case-study-1/).
 
@@ -65,7 +65,7 @@ Os scripts de criação e inserção de dados estão no arquivo [tabelas.sql](ht
 
 Os scripts das análises podem ser acessados no arquivo [analise.sql](https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto05/analise.sql).
 
-* **Qual é o valor total gasto por cada cliente no restaurante?**
+* Qual é o valor total gasto por cada cliente no restaurante?
 
 >O cliente A teve a maior despesa, totalizando $76, seguido pelo cliente B, que gastou $74, e o cliente C, cujo total foi de $36.
 
