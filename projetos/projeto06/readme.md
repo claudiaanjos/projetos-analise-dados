@@ -1,5 +1,5 @@
 <div align='center'>
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image00.png" width="80%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image00.png" width="100%"/>
 </div>
 
 # Análise Operacional de um Serviço de Delivery
@@ -40,7 +40,7 @@ Os scripts de criação e inserção de dados estão em scripts no arquivo **tab
 * **registration_date**: data de registro do runner
 
 <div align='center'>
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image02.png" width="80%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image02.png" width="60%"/>
 </div>
 
 **Tabela 2: customer_orders**
@@ -57,7 +57,7 @@ Os pedidos de pizza dos clientes são registrados na tabela **customer_orders** 
 Observe que os clientes podem fazer vários pedidos de pizza em um único pedido com valores variados de **exclusions** e **extras**, mesmo que a pizza seja do mesmo tipo. Essas colunas precisarão ser limpas antes de serem utilizadas em suas consultas.
 
 <div align='center'>
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image03.png" width="80%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image03.png" width="60%"/>
 </div>
 
 **Tabela 3: runner_orders**
@@ -74,7 +74,7 @@ Após cada pedido ser recebido pelo sistema, ele é atribuído a um runner. No e
 Existem alguns problemas conhecidos nos dados desta tabela, portanto, tenha cuidado ao usá-la em suas consultas - verifique os tipos de dados para cada coluna no esquema SQL.
 
 <div align='center'>
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image04.png" width="80%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image04.png" width="60%"/>
 </div>
 
 **Tabela 4: pizza_names**
@@ -85,7 +85,7 @@ Atualmente, o Pizza Runner tem apenas 2 pizzas disponíveis: Meat Lovers ou Vege
 * **pizza_name**: tipo da pizza
 
 <div align='center'>
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image05.png" width="80%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image05.png" width="60%"/>
 </div>
 
 **Tabela 5: pizza_recipes**
@@ -96,7 +96,7 @@ Cada pizza tem um conjunto padrão de coberturas que são usadas como parte da r
 * **toppings**: identificadores dos tipos de coberturas utilizadas para cada tipo de pizza
 
 <div align='center'>
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image06.png" width="80%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image06.png" width="60%"/>
 </div>
 
 **Tabela 6: pizza_toppings**
@@ -105,13 +105,13 @@ Cada pizza tem um conjunto padrão de coberturas que são usadas como parte da r
 * **topping_name**: nome da cobertura 
 
 <div align='center'>
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image07.png" width="80%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image07.png" width="60%"/>
 </div>
 
 ### Diagrama de Relacionamento de Entidades
 
 <div align='center'>
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image01.png" width="80%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image01.png" width="50%"/>
 </div>
 
 ## Limpeza e Transformação dos Dados
