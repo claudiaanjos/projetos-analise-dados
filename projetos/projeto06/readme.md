@@ -2,6 +2,8 @@
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image00.png" width="100%"/>
 </div>
 
+&nbsp;
+
 # Análise Operacional de um Serviço de Delivery
 
 Esse projeto faz parte do [8 Week SQL Challenge](https://8weeksqlchallenge.com/) disponibilizado pelo [Data With Danny](https://www.datawithdanny.com/).
@@ -38,11 +40,11 @@ Os scripts de criação e inserção de dados estão em scripts no arquivo **tab
 
 * **runner_id**: identificador do runner
 * **registration_date**: data de registro do runner
-
-<div >
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image02.png" width="50%"/>
+&nbsp;
+<div align='center'>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image02.png" width="60%"/>
 </div>
-
+&nbsp;
 **Tabela 2: customer_orders**
 
 Os pedidos de pizza dos clientes são registrados na tabela **customer_orders** com 1 linha para cada pizza individual que faz parte do pedido.
