@@ -30,7 +30,7 @@ O relatório final encontra-se na [página principa](https://github.com/claudiaa
 &nbsp;
 
 <div align='center'>
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image09.png" width="20%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image09.png" width="40%"/>
 </div>
 
 &nbsp;
@@ -42,7 +42,7 @@ O relatório final encontra-se na [página principa](https://github.com/claudiaa
 &nbsp;
 
 <div align='center'>
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image10.png" width="30%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image10.png" width="40%"/>
 </div>
 
 &nbsp;
@@ -54,7 +54,7 @@ O relatório final encontra-se na [página principa](https://github.com/claudiaa
 &nbsp;
 
 <div align='center'>
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image11.png" width="30%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image11.png" width="40%"/>
 </div>
 
 &nbsp;
@@ -70,7 +70,7 @@ O relatório final encontra-se na [página principa](https://github.com/claudiaa
 &nbsp;
 
 <div align='center'>
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image12.png" width="30%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image12.png" width="40%"/>
 </div>
 
 &nbsp;
@@ -86,7 +86,7 @@ O relatório final encontra-se na [página principa](https://github.com/claudiaa
 &nbsp;
 
 <div align='center'>
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image13.png" width="10%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image13.png" width="40%"/>
 </div>
 
 &nbsp;
@@ -98,5 +98,5 @@ O relatório final encontra-se na [página principa](https://github.com/claudiaa
 &nbsp;
 
 <div align='center'>
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image27.png" width="5%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image27.png" width="40%"/>
 </div>
