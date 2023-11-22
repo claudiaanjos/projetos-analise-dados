@@ -11,7 +11,9 @@ Ao clicar em cada parte você será direcionado para a respectiva análise.
 
 No diretório [scripts](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos/projeto06/scripts) também encontrará essa divisão em partes.
 
-O relatório final encontra-se na [página principa](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos/projeto06).
+O relatório final encontra-se na [página principal](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos/projeto06).
+
+&nbsp;
 
 ## Questões
 

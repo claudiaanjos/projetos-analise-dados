@@ -170,7 +170,8 @@ Este estudo de caso foi dividido por áreas de foco:
 * C - Otimização de ingredientes
 * D - Preços e classificações
 
-Ao clicar em cada parte você será direcionado para a respectiva análise. 
+Ao clicar em cada parte você será direcionado para a respectiva análise.
+ 
 No diretório [scripts](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos/projeto06/scripts) também encontrará essa divisão em partes.
 
 
