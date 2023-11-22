@@ -27,12 +27,13 @@ O relatório final encontra-se na [página principa](https://github.com/claudiaa
 
 >O Runner 1 concluiu com êxito a entrega de 4 pedidos, enquanto o Runner 2 de 3 pedidos e o Runner 3 de 1 pedido.
 
+&nbsp;
+
 | runner | total_pedidos_entregues |
 |:--------:|:--------------------------:|
 |   1    |            4             |
 |   2    |            3             |
 |   3    |            1             |
-
 
 &nbsp;
 
@@ -40,7 +41,7 @@ O relatório final encontra-se na [página principa](https://github.com/claudiaa
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image09.png" width="40%"/>
 </div>
 
-&nbsp;
+
 
 * Quantas pizzas de cada tipo foram entregues?
 
@@ -139,7 +140,7 @@ O relatório final encontra-se na [página principa](https://github.com/claudiaa
 
 >Quarta e sábado tiveram o maior número de pedidos, totalizando 5 cada. Na quinta, foram 3 pedidos, e na sexta, apenas 1. Os demais dias não tiveram registros de pedidos.
 
-|   semana    | total_runner |
+|   dia_semana    | total_runner |
 |:------------:|:------------:|
 | 2021-01-01  |       2      |
 | 2021-01-08  |       1      |
