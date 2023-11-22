@@ -1,6 +1,6 @@
 # A. Métricas dos pedidos de pizza
 
-Este estudo de caso foi dividido por áreas de foco:
+O estudo foi dividido por áreas de foco:
 
 * A - Métricas dos pedidos de pizza
 * B - Experiência do runner e cliente
@@ -10,6 +10,8 @@ Este estudo de caso foi dividido por áreas de foco:
 Ao clicar em cada parte você será direcionado para a respectiva análise. 
 
 No diretório [scripts](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos/projeto06/scripts) também encontrará essa divisão em partes.
+
+O relatório final encontra-se na [página principa](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos/projeto06).
 
 ## Questões
 
@@ -28,7 +30,7 @@ No diretório [scripts](https://github.com/claudiaanjos/projetos-analise-dados/t
 &nbsp;
 
 <div align='center'>
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image09.png" width="50%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image09.png" width="30%"/>
 </div>
 
 &nbsp;
@@ -40,7 +42,7 @@ No diretório [scripts](https://github.com/claudiaanjos/projetos-analise-dados/t
 &nbsp;
 
 <div align='center'>
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image10.png" width="50%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image10.png" width="30%"/>
 </div>
 
 &nbsp;
@@ -52,7 +54,7 @@ No diretório [scripts](https://github.com/claudiaanjos/projetos-analise-dados/t
 &nbsp;
 
 <div align='center'>
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image11.png" width="50%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image11.png" width="30%"/>
 </div>
 
 &nbsp;
@@ -68,7 +70,7 @@ No diretório [scripts](https://github.com/claudiaanjos/projetos-analise-dados/t
 &nbsp;
 
 <div align='center'>
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image12.png" width="50%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image12.png" width="30%"/>
 </div>
 
 &nbsp;
@@ -84,7 +86,7 @@ No diretório [scripts](https://github.com/claudiaanjos/projetos-analise-dados/t
 &nbsp;
 
 <div align='center'>
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image13.png" width="50%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image13.png" width="30%"/>
 </div>
 
 &nbsp;
@@ -96,5 +98,5 @@ No diretório [scripts](https://github.com/claudiaanjos/projetos-analise-dados/t
 &nbsp;
 
 <div align='center'>
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image27.png" width="50%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image27.png" width="30%"/>
 </div>
