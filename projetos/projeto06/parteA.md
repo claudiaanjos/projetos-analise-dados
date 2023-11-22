@@ -27,11 +27,12 @@ O relatório final encontra-se na [página principa](https://github.com/claudiaa
 
 >O Runner 1 concluiu com êxito a entrega de 4 pedidos, enquanto o Runner 2 de 3 pedidos e o Runner 3 de 1 pedido.
 
-| Runner | Total de Pedidos Entregues |
-|--------|---------------------------|
-|   1    |             4             |
-|   2    |             3             |
-|   3    |             1             |
+| runner | total_pedidos_entregues |
+|--------|--------------------------|
+|   1    |            4             |
+|   2    |            3             |
+|   3    |            1             |
+
 
 
 
