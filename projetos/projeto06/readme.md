@@ -26,13 +26,11 @@ Como Danny tinha alguns anos de experiência como cientista de dados, ele estava
 
 Ele preparou para nós um diagrama de entidade-relacionamento de seu projeto de banco de dados, mas precisa de mais assistência para limpar seus dados e aplicar alguns cálculos básicos para que possa direcionar melhor seus runners e otimizar as operações do Pizza Runner.
 
-Todos os conjuntos de dados estão dentro do esquema do banco de dados chamado *pizza_runner* - certifique-se de incluir essa referência em seus scripts SQL ao explorar os dados e responder às perguntas do estudo de caso.
-
 ## Conjunto de dados
 
 A condução da análise foi realizada com [MySQL](https://www.mysql.com/) utilizando o [MySQL Workbench](https://www.mysql.com/products/workbench/).
 
-Os scripts de criação e inserção de dados estão em scripts no arquivo **tabelas.sql**.
+Os scripts de criação e inserção de dados estão no arquivo [tabelas.sql](https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/scripts/tabelas.sql).
 
 ### Dicionário das variáveis
 
@@ -40,11 +38,15 @@ Os scripts de criação e inserção de dados estão em scripts no arquivo **tab
 
 * **runner_id**: identificador do runner
 * **registration_date**: data de registro do runner
+
 &nbsp;
+
 <div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image02.png" width="60%"/>
 </div>
+
 &nbsp;
+
 **Tabela 2: customer_orders**
 
 Os pedidos de pizza dos clientes são registrados na tabela **customer_orders** com 1 linha para cada pizza individual que faz parte do pedido.
@@ -56,11 +58,15 @@ Os pedidos de pizza dos clientes são registrados na tabela **customer_orders** 
 * **extras**: valores do *ingredient_id* que precisam ser adicionados à pizza
 * **order_time**: data e horário que o pedido foi realizado
 
-Observe que os clientes podem fazer vários pedidos de pizza em um único pedido com valores variados de **exclusions** e **extras**, mesmo que a pizza seja do mesmo tipo. Essas colunas precisarão ser limpas antes de serem utilizadas em suas consultas.
+Observe que os clientes podem fazer vários pedidos de pizza em um único pedido com valores variados de **exclusions** e **extras**, mesmo que a pizza seja do mesmo tipo. 
+
+&nbsp;
 
 <div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image03.png" width="60%"/>
 </div>
+
+&nbsp;
 
 **Tabela 3: runner_orders**
 
@@ -73,11 +79,13 @@ Após cada pedido ser recebido pelo sistema, ele é atribuído a um runner. No e
 * **duration**: tempo que o runner gastou para entregar o pedido em minutos
 * **cancellation**: quem cancelou o pedido (Cliente ou Restautante)
 
-Existem alguns problemas conhecidos nos dados desta tabela, portanto, tenha cuidado ao usá-la em suas consultas - verifique os tipos de dados para cada coluna no esquema SQL.
+&nbsp;
 
 <div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image04.png" width="60%"/>
 </div>
+
+&nbsp;
 
 **Tabela 4: pizza_names**
 
@@ -86,9 +94,13 @@ Atualmente, o Pizza Runner tem apenas 2 pizzas disponíveis: Meat Lovers ou Vege
 * **pizza_id**: identificador do tipo de pizza
 * **pizza_name**: tipo da pizza
 
+&nbsp;
+
 <div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image05.png" width="60%"/>
 </div>
+
+&nbsp;
 
 **Tabela 5: pizza_recipes**
 
@@ -97,30 +109,42 @@ Cada pizza tem um conjunto padrão de coberturas que são usadas como parte da r
 * **pizza_id**: identificador do tipo de pizza
 * **toppings**: identificadores dos tipos de coberturas utilizadas para cada tipo de pizza
 
+&nbsp;
+
 <div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image06.png" width="60%"/>
 </div>
+
+&nbsp;
 
 **Tabela 6: pizza_toppings**
 
 * **topping_id**: identificador do tipo de cobertura
 * **topping_name**: nome da cobertura 
 
+&nbsp;
+
 <div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image07.png" width="60%"/>
 </div>
 
+&nbsp;
+
 ### Diagrama de Relacionamento de Entidades
+
+&nbsp;
 
 <div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image01.png" width="50%"/>
 </div>
 
+&nbsp;
+
 ## Limpeza e Transformação dos Dados
 
 Antes de começar com as análises, realizamos uma investigação e identificamos a necessidade de limpeza e transformação dos dados.
 
-Os scripts podem ser conferidos no arquivo *limpeza.sql*.
+Os scripts podem ser conferidos no arquivo [limpeza.sql](https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/scripts/limpeza.sql).
 
 Para a tabela **runner_orders** realizamos as seguintes ações:
 
@@ -147,7 +171,7 @@ Este estudo de caso foi dividido por áreas de foco:
 * D - Preços e classificações
 
 Ao clicar em cada parte você será direcionado para a respectiva análise. 
-No diretório scripts também encontrará essa divisão em partes.
+No diretório [scripts](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos/projeto06/scripts) também encontrará essa divisão em partes.
 
 
 ## Relatório
