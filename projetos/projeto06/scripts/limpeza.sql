@@ -12,31 +12,31 @@ Para a tabela **runner_orders** realizamos as seguintes ações:
 * Na coluna *duration*, removemos os "mins", "minute" e "minutes" dos valores e alteramos o tipo para INT;
 * Na coluna *pickup_time*, alteramos o tipo para DATETIME. */
 
-DROP TABLE IF EXISTS temp_runner_orders;
+DROP   TEMPORARY TABLE IF EXISTS temp_runner_orders;
 CREATE TEMPORARY TABLE temp_runner_orders AS
 SELECT 
-	order_id,
+    order_id,
     runner_id,
     CASE
-		WHEN pickup_time = 'null' THEN NULL
+        WHEN pickup_time = 'null' THEN NULL
         ELSE pickup_time
-	END AS pickup_time,
+    END AS pickup_time,
     CASE
-		WHEN distance LIKE '%km%'  THEN TRIM('km' FROM distance)
+        WHEN distance LIKE '%km%'  THEN TRIM('km' FROM distance)
         WHEN distance = 'null'     THEN NULL
         ELSE distance
-	END AS distance,
+    END AS distance,
     CASE 
-		WHEN duration = 'null'        THEN NULL
-		WHEN duration LIKE '%mins'    THEN TRIM('mins'    FROM duration) 
-		WHEN duration LIKE '%minute'  THEN TRIM('minute'  FROM duration)        
-		WHEN duration LIKE '%minutes' THEN TRIM('minutes' FROM duration)
+        WHEN duration = 'null'        THEN NULL
+        WHEN duration LIKE '%mins'    THEN TRIM('mins'    FROM duration) 
+        WHEN duration LIKE '%minute'  THEN TRIM('minute'  FROM duration)        
+        WHEN duration LIKE '%minutes' THEN TRIM('minutes' FROM duration)
         ELSE duration
-	END AS duration,
+    END AS duration,
     CASE
-		WHEN cancellation = 'null' OR cancellation IS NULL THEN ''
+        WHEN cancellation = 'null' OR cancellation IS NULL THEN ''
         ELSE cancellation
-	END AS cancellation
+    END AS cancellation
 FROM runner_orders;
 
 -- Conferindo a nova tabela temporária
@@ -57,20 +57,20 @@ MODIFY COLUMN duration INT;
 * Criamos uma tabela temporária **temp_customer_orders** e realizamos as modificações na mesma para não alterar a original;
 * Nas colunas *exclusions* e *extras*, que são do tipo varchar, substituimos tanto as strings 'null' quantos os valores NULL por strings vazias;*/
 
-DROP TABLE IF EXISTS temp_customer_orders;
+DROP   TEMPORARY TABLE IF EXISTS temp_customer_orders;
 CREATE TEMPORARY TABLE temp_customer_orders AS
 SELECT 
-	order_id,
+    order_id,
     customer_id,
     pizza_id,
     CASE
-		WHEN exclusions = 'null' OR exclusions IS NULL THEN ''
+        WHEN exclusions = 'null' OR exclusions IS NULL THEN ''
         ELSE exclusions
-	END AS exclusions,
+    END AS exclusions,
     CASE
-		WHEN extras = 'null' OR extras IS NULL THEN ''
+        WHEN extras = 'null' OR extras IS NULL THEN ''
         ELSE extras
-	END AS extras,
+    END AS extras,
     order_date
 FROM customer_orders;
 
