@@ -1,8 +1,8 @@
 <div align='center'>
-    <img src="" width="80%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image00.png" width="80%"/>
 </div>
 
-# Análise Operacional de Serviço de Delivery
+# Análise Operacional de um Serviço de Delivery
 
 Esse projeto faz parte do [8 Week SQL Challenge](https://8weeksqlchallenge.com/) disponibilizado pelo [Data With Danny](https://www.datawithdanny.com/).
 
@@ -40,10 +40,8 @@ Os scripts de criação e inserção de dados estão em scripts no arquivo **tab
 * **registration_date**: data de registro do runner
 
 <div align='center'>
-<img src="" width="80%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image02.png" width="80%"/>
 </div>
-
-image02
 
 **Tabela 2: customer_orders**
 
@@ -59,10 +57,8 @@ Os pedidos de pizza dos clientes são registrados na tabela **customer_orders** 
 Observe que os clientes podem fazer vários pedidos de pizza em um único pedido com valores variados de **exclusions** e **extras**, mesmo que a pizza seja do mesmo tipo. Essas colunas precisarão ser limpas antes de serem utilizadas em suas consultas.
 
 <div align='center'>
-<img src="" width="80%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image03.png" width="80%"/>
 </div>
-
-image03
 
 **Tabela 3: runner_orders**
 
@@ -78,10 +74,8 @@ Após cada pedido ser recebido pelo sistema, ele é atribuído a um runner. No e
 Existem alguns problemas conhecidos nos dados desta tabela, portanto, tenha cuidado ao usá-la em suas consultas - verifique os tipos de dados para cada coluna no esquema SQL.
 
 <div align='center'>
-<img src="" width="80%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image04.png" width="80%"/>
 </div>
-
-image04
 
 **Tabela 4: pizza_names**
 
@@ -91,10 +85,8 @@ Atualmente, o Pizza Runner tem apenas 2 pizzas disponíveis: Meat Lovers ou Vege
 * **pizza_name**: tipo da pizza
 
 <div align='center'>
-<img src="" width="80%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image05.png" width="80%"/>
 </div>
-
-image05
 
 **Tabela 5: pizza_recipes**
 
@@ -104,10 +96,8 @@ Cada pizza tem um conjunto padrão de coberturas que são usadas como parte da r
 * **toppings**: identificadores dos tipos de coberturas utilizadas para cada tipo de pizza
 
 <div align='center'>
-<img src="" width="80%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image06.png" width="80%"/>
 </div>
-
-image06
 
 **Tabela 6: pizza_toppings**
 
@@ -115,20 +105,14 @@ image06
 * **topping_name**: nome da cobertura 
 
 <div align='center'>
-<img src="" width="80%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image07.png" width="80%"/>
 </div>
-
-image07
-
 
 ### Diagrama de Relacionamento de Entidades
 
 <div align='center'>
-<img src="" width="80%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/image01.png" width="80%"/>
 </div>
-
-image01
-
 
 ## Limpeza e Transformação dos Dados
 
@@ -155,7 +139,7 @@ Para a tabela **customer_orders** realizamos as seguintes ações:
 
 Este estudo de caso foi dividido por áreas de foco:
 
-* A - Métricas dos pedidos de pizza
+* A - [Métricas dos pedidos de pizza](https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/parteA.md)
 * B - Experiência do runner e cliente
 * C - Otimização de ingredientes
 * D - Preços e classificações
