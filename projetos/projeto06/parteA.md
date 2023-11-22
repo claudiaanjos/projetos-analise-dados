@@ -139,13 +139,11 @@ O relatório final encontra-se na [página principa](https://github.com/claudiaa
 
 >Quarta e sábado tiveram o maior número de pedidos, totalizando 5 cada. Na quinta, foram 3 pedidos, e na sexta, apenas 1. Os demais dias não tiveram registros de pedidos.
 
-<div style="text-align:center">
 |   semana    | total_runner |
 |:------------:|:------------:|
 | 2021-01-01  |       2      |
 | 2021-01-08  |       1      |
 | 2021-01-15  |       1      |
-</div>
 
 
 &nbsp;
