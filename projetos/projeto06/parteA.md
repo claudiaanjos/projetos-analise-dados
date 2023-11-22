@@ -2,10 +2,10 @@
 
 O estudo foi dividido por áreas de foco:
 
-* A - Métricas dos pedidos de pizza
-* B - Experiência do runner e cliente
-* C - Otimização de ingredientes
-* D - Preços e classificações
+* A - [Métricas dos pedidos de pizza](https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/parteA.md)
+* B - [Experiência do runner e cliente](https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/parteB.md)
+* C - [Otimização de ingredientes](https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/parteC.md)
+* D - [Preços e classificações](https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/parteD.md)
 
 Ao clicar em cada parte você será direcionado para a respectiva análise. 
 
@@ -20,6 +20,8 @@ O relatório final encontra-se na [página principal](https://github.com/claudia
 * Quantas pizzas foram pedidas?
 
 >Foram solicitadas 14 pizzas.
+
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/script01.png" width="50%"/>
 
 &nbsp;
 
