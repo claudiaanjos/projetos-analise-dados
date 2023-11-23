@@ -10,14 +10,17 @@ O relatório final encontra-se na [página principal](https://github.com/claudia
 
 &nbsp;
 
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/script10.png" width="40%"/>
 
 &nbsp;
 
-<div align='center'>
-<img src="" width="80%"/>
-</div>
+|   semana    | total_runner |
+|:------------:|:------------:|
+| 2021-01-01  |       2      |
+| 2021-01-08  |       1      |
+| 2021-01-15  |       1      |
 
-image14
+&nbsp;
 
 * Qual foi o tempo médio em minutos que cada runner levou para chegar ao QG da Pizza Runner para retirar o pedido?
 
@@ -25,14 +28,17 @@ image14
 
 &nbsp;
 
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/script10.png" width="40%"/>
 
 &nbsp;
 
-<div align='center'>
-<img src="" width="80%"/>
-</div>
+| runner | media_minutos |
+|:------:|:-------------:|
+|   1    |      14       |
+|   2    |      20       |
+|   3    |      10       |
 
-image15
+&nbsp;
 
 * Existe alguma relação entre a quantidade de pizzas e o tempo de preparo do pedido?
 
@@ -40,14 +46,18 @@ image15
 
 &nbsp;
 
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/script10.png" width="40%"/>
 
 &nbsp;
 
-<div align='center'>
-<img src="" width="80%"/>
-</div>
+| quantidade_pizza | media_minutos_preparo |
+|:-----------------:|:----------------------:|
+|         1         |           12           |
+|         2         |           18           |
+|         3         |           29           |
 
-image16
+
+&nbsp;
 
 * Qual foi a distância média percorrida para cada cliente?
 
@@ -55,19 +65,28 @@ image16
 
 &nbsp;
 
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/script10.png" width="40%"/>
 
 &nbsp;
 
-<div align='center'>
-<img src="" width="80%"/>
-</div>
+| cliente | media_distancia_km |
+|:-------:|:-------------------:|
+|   104   |         10          |
+|   102   |         17          |
+|   101   |         20          |
+|   103   |         23          |
+|   105   |         25          |
 
-image17
 
+&nbsp;
 
 * Qual foi a diferença entre os prazos de entrega mais longos e mais curtos para todos os pedidos?
 
 >A diferença entre os prazos de entrega mais longos e mais curtos para todos os pedidos foi de 30 minutos.
+
+&nbsp;
+
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/script10.png" width="40%"/>
 
 &nbsp;
 
@@ -77,25 +96,36 @@ image17
 
 &nbsp;
 
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/script10.png" width="40%"/>
 
 &nbsp;
 
-<div align='center'>
-<img src="" width="80%"/>
-</div>
+| runner | pedido | velocidade_km_hora |
+|:------:|:------:|:-------------------:|
+|   1    |   1    |        37.50        |
+|   1    |   2    |        44.44        |
+|   1    |   3    |        40.20        |
+|   1    |   10   |        60.00        |
+|   2    |   4    |        35.10        |
+|   2    |   7    |        60.00        |
+|   2    |   8    |        93.60        |
+|   3    |   5    |        40.00        |
 
-image18
 
 &nbsp;
 
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/script10.png" width="40%"/>
 
 &nbsp;
 
-<div align='center'>
-<img src="" width="80%"/>
-</div>
+| runner | pedidos | vel_media | desvio_padrao | vel_max | vel_min |
+|:------:|:-------:|:---------:|:-------------:|:-------:|:-------:|
+|   1    |    4    |   15.54   |     10.06     |  60.00  |  37.50  |
+|   2    |    3    |   62.90   |     29.36     |  93.60  |  35.10  |
+|   3    |    1    |   40.00   |      0.00     |  40.00  |  40.00  |
 
-image19
+
+&nbsp;
 
 * Qual é a porcentagem de entrega bem-sucedida para cada runner?
 
@@ -103,9 +133,12 @@ image19
 
 &nbsp;
 
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/script10.png" width="40%"/>
 
-<div align='center'>
-<img src="" width="80%"/>
-</div>
+&nbsp;
 
-image20
+| runner | %_sucesso |
+|:------:|:---------:|
+|   1    |   100     |
+|   2    |   75      |
+|   3    |   50      |
