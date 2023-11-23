@@ -4,8 +4,6 @@
 
 &nbsp;
 
-# Análise Operacional de um Serviço de Delivery
-
 Esse projeto faz parte do [8 Week SQL Challenge](https://8weeksqlchallenge.com/) disponibilizado pelo [Data With Danny](https://www.datawithdanny.com/).
 
 O objetivo do Desafio SQL de 8 Semanas é incentivar profissionais da área de dados a desenvolver projetos com SQL.

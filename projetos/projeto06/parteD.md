@@ -10,7 +10,7 @@ O relatório final encontra-se na [página principal](https://github.com/claudia
 
 &nbsp;
 
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/script27.png" width="60%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/script27.png" width="40%"/>
 
 &nbsp;
 
@@ -75,4 +75,4 @@ O relatório final encontra-se na [página principal](https://github.com/claudia
 
 &nbsp;
 
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/script31.png" width="60%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/script31.png" width="40%"/>
