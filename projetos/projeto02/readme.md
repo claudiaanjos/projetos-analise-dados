@@ -4,8 +4,6 @@
 
 &nbsp;
 
->Como parte do meu desenvolvimento profissional, estou me dedicando em realizar projetos de análise de dados. Esta iniciativa tem como objetivo não apenas adquirir conhecimentos teóricos, mas também aplicá-los de forma prática. Cada projeto é uma oportunidade para aplicar e solidificar o aprendizado, permitindo-me crescer e colocar em prática o que tenho estudado.
-
 ## Cenário
 
 Como analista de dados de uma organização de saúde, sua responsabilidade é identificar pacientes diabéticos com alto risco de readmissão por meio da estratificação de risco com base nos registros hospitalares eletrônicos. Esse processo envolverá a análise de dados eletrônicos, como resultados de exames, medicamentos, diagnósticos de outras condições médicas, entre outros.
