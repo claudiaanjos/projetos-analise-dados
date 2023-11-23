@@ -1,21 +1,8 @@
 # D. Preços e classificações
 
-O estudo foi dividido por áreas de foco:
-
-* A - Métricas dos pedidos de pizza
-* B - Experiência do runner e cliente
-* C - Otimização de ingredientes
-* D - Preços e classificações
-
-Ao clicar em cada parte você será direcionado para a respectiva análise. 
-
-No diretório [scripts](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos/projeto06/scripts) também encontrará essa divisão em partes.
-
 O relatório final encontra-se na [página principal](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos/projeto06).
 
 &nbsp;
-
-## Questões
 
 * Se uma pizza Meat Lovers custa $ 12 e Vegetariana custa $ 10 e não houve cobrança por alterações - quanto dinheiro o Pizza Runner ganhou até agora se não houver taxas de entrega?
 

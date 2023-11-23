@@ -166,12 +166,12 @@ Para a tabela **customer_orders** realizamos as seguintes ações:
 Este estudo de caso foi dividido por áreas de foco:
 
 * A - [Métricas dos pedidos de pizza](https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/parteA.md)
-* B - Experiência do runner e cliente
-* C - Otimização de ingredientes
-* D - Preços e classificações
+* B - [Experiência do runner e cliente](https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/parteB.md)
+* C - [Otimização de ingredientes](https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/parteC.md)
+* D - [Preços e classificações](https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/parteD.md)
 
 Ao clicar em cada parte você será direcionado para a respectiva análise.
- 
+
 No diretório [scripts](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos/projeto06/scripts) também encontrará essa divisão em partes.
 
 

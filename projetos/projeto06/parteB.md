@@ -1,21 +1,8 @@
 # B. Experiência do cliente e runner
 
-O estudo foi dividido por áreas de foco:
-
-* A - Métricas dos pedidos de pizza
-* B - Experiência do runner e cliente
-* C - Otimização de ingredientes
-* D - Preços e classificações
-
-Ao clicar em cada parte você será direcionado para a respectiva análise. 
-
-No diretório [scripts](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos/projeto06/scripts) também encontrará essa divisão em partes.
-
 O relatório final encontra-se na [página principal](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos/projeto06).
 
 &nbsp;
-
-## Questões
 
 * Quantos runners se cadastraram por semana? (a semana começa em 2021-01-01)
 

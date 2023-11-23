@@ -1,19 +1,8 @@
 # C. Otimização de Ingredientes
 
-O estudo foi dividido por áreas de foco:
-
-* A - Métricas dos pedidos de pizza
-* B - Experiência do runner e cliente
-* C - Otimização de ingredientes
-* D - Preços e classificações
-
-Ao clicar em cada parte você será direcionado para a respectiva análise. 
-
-No diretório [scripts](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos/projeto06/scripts) também encontrará essa divisão em partes.
-
 O relatório final encontra-se na [página principal](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos/projeto06).
 
-## Questões
+&nbsp;
 
 Antes de iniciar as análises, optamos por criar três tabelas temporárias para melhorar a organização dos dados. O objetivo é separar as informações nas colunas toppings, extras, e exclusions das tabelas originais, expandindo essas informações quando houver múltiplos valores separados por vírgula em linhas separadas. Temos as seguintes tabelas temporárias:
 
