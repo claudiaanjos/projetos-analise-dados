@@ -21,7 +21,8 @@ DROP   TEMPORARY TABLE IF EXISTS temp_pizza_recipes;
 CREATE TEMPORARY TABLE temp_pizza_recipes AS
 SELECT 
    pizza_id,
-   TRIM(SUBSTRING_INDEX(SUBSTRING_INDEX(toppings, ',', Numbers.n), ',', -1)) AS topping
+   TRIM(SUBSTRING_INDEX(SUBSTRING_INDEX(toppings, ',', Numbers.n), ',', -1)) 
+   AS topping
 FROM pizza_recipes
 JOIN Numbers 
 ON CHAR_LENGTH(toppings) - CHAR_LENGTH(REPLACE(toppings, ',', '')) >= Numbers.n - 1;
@@ -35,7 +36,8 @@ SELECT
    customer_id,
    pizza_id,
    order_date,
-   TRIM(SUBSTRING_INDEX(SUBSTRING_INDEX(extras, ',', Numbers.n), ',', -1)) AS extras
+   TRIM(SUBSTRING_INDEX(SUBSTRING_INDEX(extras, ',', Numbers.n), ',', -1)) 
+   AS extras
 FROM temp_customer_orders
 JOIN Numbers 
 ON CHAR_LENGTH(extras) - CHAR_LENGTH(REPLACE(extras, ',', '')) >= Numbers.n - 1;
@@ -49,7 +51,8 @@ SELECT
    customer_id,
    pizza_id,
    order_date,
-   TRIM(SUBSTRING_INDEX(SUBSTRING_INDEX(exclusions, ',', Numbers.n), ',', -1)) AS exclusions
+   TRIM(SUBSTRING_INDEX(SUBSTRING_INDEX(exclusions, ',', Numbers.n), ',', -1)) 
+   AS exclusions
 FROM temp_customer_orders
 JOIN Numbers 
 ON CHAR_LENGTH(exclusions) - CHAR_LENGTH(REPLACE(exclusions, ',', '')) >= Numbers.n - 1;
@@ -71,7 +74,8 @@ ORDER BY pizza;
 --Opção na mesma linha
 SELECT 
    pn.pizza_name AS pizza,
-   GROUP_CONCAT(pt.topping_name ORDER BY pt.topping_id ASC) AS ingredientes
+   GROUP_CONCAT(pt.topping_name ORDER BY pt.topping_id ASC) 
+   AS ingredientes
 FROM temp_pizza_recipes AS tpr
 JOIN pizza_names        AS pn 
 ON tpr.pizza_id = pn.pizza_id
