@@ -1,5 +1,5 @@
 <div align='center'>
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto02/images/image00.png" width="80%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto02/images/image00.png" width="100%"/>
 </div>
 
 &nbsp;
