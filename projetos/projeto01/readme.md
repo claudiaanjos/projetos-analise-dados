@@ -4,8 +4,6 @@
 
 &nbsp;
 
->Como parte do meu desenvolvimento profissional, estou me dedicando em realizar projetos de análise de dados. Esta iniciativa tem como objetivo não apenas adquirir conhecimentos teóricos, mas também aplicá-los de forma prática. Cada projeto é uma oportunidade para aplicar e solidificar o aprendizado, permitindo-me crescer e colocar em prática o que tenho estudado. Para proporcionar um contexto a essa exploração, apresento um cenário fictício que servirá como pano de fundo para o estudo.
-
 Você pode acessar o notebook [aqui](https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto01/projeto01.ipynb).
 
 ## Cenário
