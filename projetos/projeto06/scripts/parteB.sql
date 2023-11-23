@@ -9,7 +9,8 @@ WITH runner_cadastro AS (
 	SELECT
 		runner_id,
 		registration_date,
-		registration_date - ((registration_date - DATE('2021-01-01')) % 7) 
+		registration_date - 
+		((registration_date - DATE('2021-01-01')) % 7) 
 		AS semana
 	FROM runners)
 
@@ -91,7 +92,8 @@ FROM temp_runner_orders;
 SELECT
 	runner_id AS runner,
 	order_id  AS pedido,
-	round((distance/duration)*60, 2) AS velocidade_km_hora
+	round((distance/duration)*60, 2) 
+	AS velocidade_km_hora
 FROM temp_runner_orders
 WHERE distance IS NOT NULL
 GROUP BY runner, pedido
