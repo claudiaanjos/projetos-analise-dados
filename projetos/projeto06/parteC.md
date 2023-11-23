@@ -14,25 +14,25 @@ Antes de iniciar as análises, optamos por criar três tabelas temporárias para
 
 **Tabela auxiliar com uma sequência de números para divivir valores em outras operações**
 
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/script19.png" width="50%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/script19.png" width="60%"/>
 
 &nbsp;
 
 **Tabela temp_pizza_recipes**
 
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/script20.png" width="50%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/script20.png" width="60%"/>
 
 &nbsp;
 
 **Tabela temp_customer_orders_extras**
 
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/script21.png" width="50%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/script21.png" width="60%"/>
 
 &nbsp;
 
 **Tabela temp_customer_orders_exclusions**
 
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/script22.png" width="50%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/script22.png" width="60%"/>
 
 &nbsp;
 
@@ -115,7 +115,7 @@ Antes de iniciar as análises, optamos por criar três tabelas temporárias para
 
 &nbsp;
 
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/script26.png" width="50%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/script26.png" width="60%"/>
 
 &nbsp;
 
