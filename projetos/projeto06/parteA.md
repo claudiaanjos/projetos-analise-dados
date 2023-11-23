@@ -1,27 +1,16 @@
 # A. Métricas dos pedidos de pizza
 
-O estudo foi dividido por áreas de foco:
-
-* A - [Métricas dos pedidos de pizza](https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/parteA.md)
-* B - [Experiência do runner e cliente](https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/parteB.md)
-* C - [Otimização de ingredientes](https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/parteC.md)
-* D - [Preços e classificações](https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/parteD.md)
-
-Ao clicar em cada parte você será direcionado para a respectiva análise. 
-
-No diretório [scripts](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos/projeto06/scripts) também encontrará essa divisão em partes.
-
 O relatório final encontra-se na [página principal](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos/projeto06).
 
 &nbsp;
-
-## Questões
 
 * Quantas pizzas foram pedidas?
 
 >Foram solicitadas 14 pizzas.
 
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/script01.png" width="50%"/>
+&nbsp;
+
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/script01.png" width="40%"/>
 
 &nbsp;
 
@@ -31,9 +20,17 @@ O relatório final encontra-se na [página principal](https://github.com/claudia
 
 &nbsp;
 
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/script02.png" width="40%"/>
+
+&nbsp;
+
 * Quantos pedidos bem-sucedidos foram entregues por cada runner?
 
 >O Runner 1 concluiu com êxito a entrega de 4 pedidos, enquanto o Runner 2 de 3 pedidos e o Runner 3 de 1 pedido.
+
+&nbsp;
+
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto06/images/script03.png" width="40%"/>
 
 &nbsp;
 
