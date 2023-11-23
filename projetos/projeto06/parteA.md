@@ -162,4 +162,3 @@ O relatório final encontra-se na [página principal](https://github.com/claudia
 |  sábado    |       5      |
 |  quinta    |       3      |
 |  sexta     |       1      |
-
