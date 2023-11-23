@@ -13,15 +13,16 @@ FROM temp_customer_orders;
 -- Quantos pedidos de clientes exclusivos foram feitos?
 
 SELECT 
-	count(DISTINCT order_id) AS total_pedidos_exclusivos
+	count(DISTINCT order_id) 
+	AS total_pedidos_exclusivos
 FROM temp_customer_orders;
 
 
 -- Quantos pedidos bem-sucedidos foram entregues por cada runner?
 
 SELECT 
-	runner_id          AS runner,
-	count(runner_id)   AS total_pedidos_entregues
+	runner_id        AS runner,
+	count(runner_id) AS total_pedidos_entregues
 FROM temp_runner_orders
 WHERE distance IS NOT NULL
 GROUP BY runner
@@ -79,11 +80,13 @@ SELECT
 	tco.customer_id AS cliente,
 	count(
 		CASE
-			WHEN exclusions != '' OR extras != '' THEN 1
+			WHEN exclusions != '' OR extras != '' 
+			THEN 1
 		END) AS total_com_alteracao,
 	count(
 		CASE
-			WHEN exclusions = '' AND extras = '' THEN 1
+			WHEN exclusions = '' AND extras = '' 
+			THEN 1
 		END) AS total_sem_alteracao
 FROM temp_customer_orders AS tco
 JOIN temp_runner_orders   AS tro
@@ -97,7 +100,8 @@ GROUP BY cliente;
 SELECT
 	count(
 		CASE
-			WHEN extras != '' AND exclusions != '' THEN 1
+			WHEN extras != '' AND exclusions != '' 
+			THEN 1
 		END) AS total_com_extras_exclusoes
 FROM temp_customer_orders AS tco
 JOIN temp_runner_orders   AS tro
