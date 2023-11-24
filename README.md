@@ -15,7 +15,7 @@ Estou constantemente buscando aprimorar minhas habilidades e conhecimentos, por 
 
 ## 📂 Projetos 
 
-Neste repositório, você encontrará diversos projetos de análise de dados abrangendo várias áreas. 
+[Neste repositório](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos), você encontrará diversos projetos de análise de dados abrangendo várias áreas. 
 
 Cada projeto inclui uma descrição, dataset e notebook com a análise específica dos dados. 
 
