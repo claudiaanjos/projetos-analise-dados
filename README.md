@@ -7,29 +7,22 @@ Aqui você encontrará uma coleção de projetos nos quais venho trabalhando par
 
 Cada projeto aborda diferentes temas e problemas, o que me permite explorar uma variedade de técnicas e conceitos.
 
-## 🎯 Objetivo 
-
-Este repositório tem como objetivo documentar minha jornada de aprendizado na área de análise de dados. 
-
-Estou constantemente buscando aprimorar minhas habilidades e conhecimentos, por meio de cursos e, principalmente, da aplicação prática em projetos.
-
 ## 📂 Projetos 
 
-[Aqui](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos) você encontrará todos os projetos, porém também pode acessar de acordo com a ferramenta utilizada:
+Cada projeto apresenta uma descrição e/ou cenário fictício, dataset(s) e notebook/arquivo contendo a análise específica dos dados. Todos os projetos estão disponíveis [aqui](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos#projetos), e você também pode explorá-los conforme a ferramenta ou tecnologia utilizada através dos links abaixo.
 
-* [Análises com Python](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos#an%C3%A1lises-com-python)
-* [Análises com SQL](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos#an%C3%A1lises-com-sql)
-* [Análises com Ferramentas de BI](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos#an%C3%A1lises-com-ferramentas-de-business-intelligence-bi)
+* #### [Todos os projetos](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos#projetos)
+* #### [Análises com Python](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos#an%C3%A1lises-com-python)
+* #### [Análises com SQL](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos#an%C3%A1lises-com-sql)
+* #### [Análises com Ferramentas de BI](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos#an%C3%A1lises-com-ferramentas-de-business-intelligence-bi)
 
-Cada projeto inclui uma descrição, dataset e notebook/arquivo com a análise específica dos dados. 
 
-## 📚 Contribuição 
+## 🤝 Contribuição 
 
 Sinta-se à vontade e se quiser tirar dúvidas, compartilhar ideias, sugestões ou melhorias, não hesite em entar em contato.
 
-🤝 Agradeço por explorar meus projetos! 
 
-#
+&nbsp;
 
 <div>
   <a href="https://www.linkedin.com/in/claudia-anjos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
