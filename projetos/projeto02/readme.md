@@ -6,7 +6,7 @@
 
 ## Cenário
 
-Como analista de dados de uma organização de saúde, sua responsabilidade é identificar pacientes diabéticos com alto risco de readmissão por meio da estratificação de risco com base nos registros hospitalares eletrônicos. Esse processo envolverá a análise de dados eletrônicos, como resultados de exames, medicamentos, diagnósticos de outras condições médicas, entre outros.
+Como analista de dados de uma organização de saúde, sua responsabilidade é identificar pacientes diabéticos com alto risco de readmissão por meio da estratificação de risco com base nos registros hospitalares eletrônicos. Esse processo envolverá a análise de dados eletrônicos, como resultados de exames, medicamentos, diagnósticos adicionais, entre outros.
 
 Esse trabalho desempenha um papel importante na melhoria do tratamento do diabetes e na redução dos custos associados às readmissões hospitalares.
 
@@ -151,9 +151,9 @@ Durante nossa análise com Python e Power BI (veja os dashboards abaixo), identi
 
 &nbsp;
 
-&nbsp;
-
 ## Dashboards Power BI
+
+Você pode acessar o dashboard [aqui](https://app.powerbi.com/view?r=eyJrIjoiODNjOTlhMTEtOGE4Ni00Yjc5LWFhNmMtMjNkMTMzNjZkODAyIiwidCI6IjEzNWZkMWI3LWE5MDUtNGRhMC1hNmQ2LTgxMGJmYTJmNTJmYyJ9).
 
 ### Dashboard Geral
 
