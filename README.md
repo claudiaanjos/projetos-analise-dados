@@ -9,7 +9,7 @@ Cada projeto aborda diferentes temas e problemas, o que me permite explorar uma 
 
 ## 📂 Projetos 
 
-Cada projeto apresenta uma descrição e/ou cenário fictício, dataset(s) e notebook/arquivo contendo a análise específica dos dados. Todos os projetos estão disponíveis [aqui](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos#projetos), e você também pode explorá-los conforme a ferramenta ou tecnologia utilizada através dos links abaixo.
+Cada projeto apresenta uma descrição e/ou cenário fictício, dataset(s) e notebook/arquivo contendo a análise específica dos dados. Todos os projetos estão disponíveis [aqui](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos#projetos), e você também pode acessá-los conforme a ferramenta ou tecnologia utilizada através dos links abaixo.
 
 * #### [Todos os projetos](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos#projetos)
 * #### [Análises com Python](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos#an%C3%A1lises-com-python)
