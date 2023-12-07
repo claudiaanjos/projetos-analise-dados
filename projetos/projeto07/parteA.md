@@ -14,7 +14,9 @@ Realizamos as seguintes ações:
 Para criação da nova variável que calcula diferença em dias da troca de um plano para outro de cada cliente foram realizados os seguintes passos descritos abaixo para cada trecho de código.
 
 ```  
-COALESCE(DATE_DIFF(s.start_date, LAG(s.start_date, 1) OVER(PARTITION BY s.customer_id ORDER BY s.start_date), DAY), 0) AS dias_troca_plano
+COALESCE(DATE_DIFF(s.start_date, LAG(s.start_date, 1) 
+OVER(PARTITION BY s.customer_id ORDER BY s.start_date), DAY), 0) 
+AS dias_troca_plano
 ```
 
 **LAG(start_date, 1)**: retorna a data de início da assinatura da linha anterior para o mesmo cliente, quando ordenado pela data de início (start_date).
@@ -27,9 +29,7 @@ COALESCE(DATE_DIFF(s.start_date, LAG(s.start_date, 1) OVER(PARTITION BY s.custom
 
 &nbsp;
 
-<div align='center'>
 <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto07/images/image01.png" width="60%"/>
-</div>
 
 &nbsp;
 
