@@ -11,15 +11,15 @@ A equipe do Foodie-Fi deseja que você crie uma nova tabela de pagamentos (*paym
 
 Foram realizados os passos descritos abaixo.
 
-* Criação da Tabela: 
+* Criação da Tabela
 
 Foi criada uma nova tabela chamada payments no dataset foodie do projeto projetosql-401620.
 
-* Common Table Expression (CTE):
+* Common Table Expression (CTE)
 
 Uma CTE chamada payment_data foi definida para organizar a lógica da consulta principal e melhorar a legibilidade.
 
-* Seleção de Dados:
+* Seleção de Dados
 
 A CTE payment_data foi construída a partir das tabelas *subscriptions* e *plans* usando um LEFT JOIN para garantir que todas as inscrições sejam consideradas.
 
@@ -27,7 +27,7 @@ O CASE foi utilizado para determinar a data de pagamento com base no tipo de pla
 
 O RANK() foi aplicado para atribuir uma ordem de pagamento com base na data de início.
 
-* Seleção Final:
+* Seleção Final
 
 A consulta final seleciona os resultados da CTE payment_data.
 
@@ -37,7 +37,7 @@ Os resultados foram ordenados por customer_id, plan_id, e payment_order.
 
 &nbsp;
 
-<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto07/images/image13.png" width="60%"/>
+<img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto07/images/image13.png" width="80%"/>
 
 &nbsp;
 
