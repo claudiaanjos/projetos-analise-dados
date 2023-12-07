@@ -12,6 +12,8 @@
 
 >O Foodie-Fi já teve 1000 clientes.
 
+&nbsp;
+
 * Qual é a distribuição mensal dos valores de *start_date* para o plano de teste (*trial*) em nosso conjunto de dados - utilize o início do mês como valor de agrupamento.
 
 &nbsp;
