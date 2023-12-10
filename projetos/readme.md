@@ -49,7 +49,7 @@
 
 ## Machine Learning
 
-**[Segmentação de clientes de um supermercado com K-means](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos/projeto01)**
+**[Segmentação de clientes de um supermercado com K-means](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos/projeto08)**
 
 * O objetivo do estudo foi realizar a segmentação ds clientes de um supermercado multicanal. Após a segmentação, cada grupo foi analisado para identificar suas características e comportamentos. As análises são essenciais, pois embasarão decisões estratégicas na área de negócios do supermercado.
 * As principais etapas adotadas foram análise exploratória, engenharia de atributos, normalização, aplicação do método de Elbow, alocação de pesos das features e implementação do algoritmo K-Means.
