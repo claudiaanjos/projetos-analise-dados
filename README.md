@@ -14,6 +14,7 @@ Cada projeto apresenta uma descrição e/ou cenário fictício, dataset(s) e not
 * #### [Todos os projetos](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos#projetos)
 * #### [Análises com Python](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos#an%C3%A1lises-com-python)
 * #### [Análises com SQL](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos#an%C3%A1lises-com-sql)
+* #### [Machine Learning](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos#machine-learning)
 * #### [Análises com Ferramentas de BI](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos#an%C3%A1lises-com-ferramentas-de-business-intelligence-bi)
 
 
