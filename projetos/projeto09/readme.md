@@ -2,7 +2,7 @@
     <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto09/images/image00.png" width="100%"/>
 </div>
 
-# Projeto de Retenção de Usuários do Waze
+<br>
 
 Esse projeto deriva da formação do Google Advanced Data Analytics Professional Certificate.
 
@@ -15,8 +15,6 @@ O aplicativo de navegação gratuito do Waze simplifica as viagens para motorist
 A liderança do Waze solicitou à equipe de dados o desenvolvimento de um modelo de aprendizado de máquina para prever a rotatividade de usuários. Nesse contexto, como novo integrante da equipe de dados, minha contribuição será essencial para analisar e interpretar dados, gerar insights valiosos e auxiliar na tomada de decisões estratégicas.
 
 Este projeto integra os esforços do Waze para impulsionar o crescimento, visando à prevenção da rotatividade e ao aumento da retenção de usuários. A implementação de um modelo de previsão de rotatividade é importante para otimizar os negócios do Waze.
-
-<br>
 
 **Membros da equipe do Waze**
 
@@ -36,7 +34,7 @@ Como nova analista de dados, irei colaborar estreitamente com uma equipe talento
 
 <br>
 
->Nota: A história, personagens e eventos são fictícios e não possuem qualquer ligação com indivíduos ou dados reais do Waze.
+>**Nota: A história, personagens e eventos são fictícios e não possuem qualquer ligação com indivíduos ou dados reais do Waze.**
 
 <br>
 
@@ -55,9 +53,10 @@ As etapas foram as seguintes:
 - Etapa_05: Regressão Logística
 - Etapa_06: Modelos de Machine Learning
 
+<br>
 
 <div align='center'>
-    <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto09/images/image01.png" width="100%"/>
+    <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto09/images/image01.png" width="60%"/>
 </div>
 
 <br>
@@ -98,7 +97,7 @@ Com base nos cálculos, observamos que motoristas que utilizam iPhone têm, em m
 <br>
 
 <div align='center'>
-    <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto09/images/image09.png" width="100%"/>
+    <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto09/images/image09.png" width="60%"/>
 </div>
 
 <br>
@@ -114,7 +113,7 @@ A equipe desenvolveu um modelo de regressão logística binomial para prever a r
 <br>
 
 <div align='center'>
-    <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto09/images/image10.png" width="100%"/>
+    <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto09/images/image10.png" width="60%"/>
 </div>
 
 <br>
@@ -132,7 +131,7 @@ Destacamos os seguintes pontos-chave:
 <br>
 
 <div align='center'>
-    <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto09/images/image11.png" width="100%"/>
+    <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto09/images/image11.png" width="60%"/>
 </div>
 
 <br>
