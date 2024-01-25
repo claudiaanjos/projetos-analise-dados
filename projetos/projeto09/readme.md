@@ -61,10 +61,6 @@ As etapas foram as seguintes:
 
 <br>
 
-------
-
-<br>
-
 ## Desenvolvimento do Projeto
 
 Durante a primeira etapa, iniciamos o planejamento do projeto. Assim que os dados foram disponibilizados juntamente com o [dicionário de dados](), realizamos uma análise preliminar, resultando nos seguintes insights:
@@ -144,5 +140,7 @@ Destacamos os seguintes pontos-chave:
 Os modelos de aprendizado de máquina desenvolvidos demonstram uma necessidade de dados adicionais para prever com mais precisão a perda de usuários.
 
 Os modelos de aprendizado de máquina desenvolvidos destacam a necessidade de dados adicionais para prever com mais precisão a perda de usuários. O esforço de modelagem ressalta que os dados atuais são insuficientes para prever consistentemente a rotatividade de usuários. Sugerimos obter informações de viagem detalhadas e dados mais granulares sobre a interação dos usuários com o aplicativo. Recomendamos uma segunda iteração do Projeto de Retenção de Usuários.
+
+<br>
 
 >Observação: Em cada etapa do projeto, temos à disposição detalhes adicionais, como descrição específica das atividades realizadas, registros das reuniões com as equipes, e-mails enviados, além de um notebook contendo análises completas e um resumo executivo da respectiva etapa. Esses recursos adicionais são fundamentais para proporcionar uma compreensão mais detalhada do processo de análise de dados, bem como das decisões tomadas ao longo do projeto. Eles fornecem um contexto valioso para interpretar os resultados e conclusões apresentados, permitindo uma avaliação mais abrangente e precisa do trabalho realizado.
