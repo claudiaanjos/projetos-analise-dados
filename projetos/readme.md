@@ -1,6 +1,6 @@
 # Projetos
 
-Cada projeto inclui uma descrição e/ou cenário fictício, conjuntos de dados e um notebook ou arquivo contendo a análise específica. Todos os projetos estão disponíveis neste repositório, mas você também pode acessá-los com base na ferramenta ou tecnologia utilizada através dos links no [repositório principal](https://github.com/claudiaanjos/projetos-analise-dados/tree/main#-projetos). **É importante destacar que um mesmo projeto pode estar categorizado em diferentes tópicos.**
+Cada projeto inclui uma descrição e/ou cenário fictício, conjuntos de dados e um notebook ou arquivo contendo a análise específica. Todos os projetos estão disponíveis neste repositório, mas você também pode acessá-los com base na ferramenta ou tecnologia utilizada através dos links no [repositório principal](https://github.com/claudiaanjos/projetos-analise-dados/tree/main#-projetos). É importante destacar que um mesmo projeto pode estar categorizado em diferentes tópicos.
 
 <br>
 
