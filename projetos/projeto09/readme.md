@@ -1,12 +1,12 @@
 <div align='center'>
-    <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto09/images/image00.png" width="100%"/>
+    <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto09/images/image12.png" width="100%"/>
 </div>
 
 <br>
 
-Esse projeto deriva da formação do Google Advanced Data Analytics Professional Certificate.
+**Esse projeto deriva da formação do Google Advanced Data Analytics Professional Certificate.**
 
-&nbsp;
+<br>
 
 ## Contexto
 
@@ -42,7 +42,7 @@ Como nova analista de dados, irei colaborar estreitamente com uma equipe talento
 
 O projeto foi desenvolvido em etapas distintas. Após cada interação com a equipe de dados e em atendimento às demandas da liderança, foram submetidos entregáveis específicos. Cada etapa inclui observações de reuniões e trocas de e-mails entre a equipe de dados, além do notebook e resumo executivo, proporcionando insights e respostas essenciais para a liderança.
 
-É importante destacar que utilizamos o framework PACE para estruturar os notebooks. Para mais informações acesse o artigo ["Framework PACE"](https://medium.com/@ndosanjosc/framework-pace-a5f1d0010dde).
+É importante destacar que utilizamos o framework PACE para estruturar os notebooks. Para mais informações acesse o artigo [Framework PACE](https://medium.com/@ndosanjosc/framework-pace-a5f1d0010dde).
 
 As etapas foram as seguintes:
 
@@ -56,7 +56,7 @@ As etapas foram as seguintes:
 <br>
 
 <div align='center'>
-    <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto09/images/image01.png" width="60%"/>
+    <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto09/images/image01.png" width="70%"/>
 </div>
 
 <br>
@@ -85,7 +85,7 @@ Avançando para a terceira etapa, conforme planejado, realizamos a Análise Expl
 <br>
 
 <div align='center'>
-    <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto09/images/image08.png" width="100%"/>
+    <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto09/images/image08.png" width="80%"/>
 </div>
 
 <br>
@@ -97,7 +97,7 @@ Com base nos cálculos, observamos que motoristas que utilizam iPhone têm, em m
 <br>
 
 <div align='center'>
-    <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto09/images/image09.png" width="60%"/>
+    <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto09/images/image09.png" width="30%"/>
 </div>
 
 <br>
@@ -131,7 +131,7 @@ Destacamos os seguintes pontos-chave:
 <br>
 
 <div align='center'>
-    <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto09/images/image11.png" width="60%"/>
+    <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto09/images/image11.png" width="40%"/>
 </div>
 
 <br>
