@@ -10,3 +10,4 @@ Lista dos projetos com os links para o [Medium](https://medium.com/@ndosanjosc).
 - **[Projeto 06](https://medium.com/@ndosanjosc/an%C3%A1lise-operacional-de-um-servi%C3%A7o-de-delivery-com-sql-6a8e9e38b3ec)**: Análise Operacional de um Serviço de Delivery (SQL)
 - **[Projeto 07](https://medium.com/@ndosanjosc/an%C3%A1lise-de-desempenho-de-uma-plataforma-de-streaming-com-sql-a9236e5f2c39)**: Análise de Desempenho de uma Plataforma de Streaming (SQL)
 - **[Projeto 08](https://medium.com/@ndosanjosc/segmenta%C3%A7%C3%A3o-de-clientes-de-um-supermercado-com-k-means-69df34758d86)**: Segmentação de clientes de um supermercado com K-means (ML)
+- **[Projeto 09]()**: Projeto de Retenção de Usuários do Waze (ML)
