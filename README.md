@@ -7,16 +7,19 @@ Aqui você encontrará uma coleção de projetos nos quais venho trabalhando par
 
 Cada projeto aborda diferentes temas e problemas, o que me permite explorar uma variedade de técnicas e conceitos.
 
+<br>
+
 ## 📂 Projetos 
 
-Cada projeto apresenta uma descrição e/ou cenário fictício, dataset(s) e notebook/arquivo contendo a análise específica dos dados. Todos os projetos estão disponíveis [aqui](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos#projetos), e você também pode acessá-los conforme a ferramenta ou tecnologia utilizada através dos links abaixo.
+Cada projeto apresenta uma descrição e/ou cenário fictício, dataset(s) e notebook/arquivo contendo a análise específica dos dados. Todos os projetos estão disponíveis [aqui](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos#projetos), e você também pode acessá-los conforme a ferramenta ou tecnologia utilizada através dos links abaixo. **É importante destacar que um mesmo projeto pode estar categorizado em diferentes tópicos.**
 
 * #### [Todos os projetos](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos#projetos)
-* #### [Análises com Python](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos#an%C3%A1lises-com-python)
-* #### [Análises com SQL](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos#an%C3%A1lises-com-sql)
-* #### [Machine Learning](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos#machine-learning)
-* #### [Análises com Ferramentas de BI](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos#an%C3%A1lises-com-ferramentas-de-business-intelligence-bi)
+* #### [Análises com Python](https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projetos.md#an%C3%A1lises-com-python)
+* #### [Análises com SQL](https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projetos.md#an%C3%A1lises-com-sql)
+* #### [Machine Learning](https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projetos.md#machine-learning)
+* #### [Análises com Ferramentas de BI](https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projetos.md#an%C3%A1lises-com-ferramentas-de-business-intelligence-bi)
 
+<br>
 
 ## 🤝 Contribuição 
 
