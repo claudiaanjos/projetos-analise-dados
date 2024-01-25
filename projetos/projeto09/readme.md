@@ -65,6 +65,8 @@ As etapas foram as seguintes:
 
 <br>
 
+## Desenvolvimento do Projeto
+
 Durante a primeira etapa, iniciamos o planejamento do projeto. Assim que os dados foram disponibilizados juntamente com o [dicionário de dados](), realizamos uma análise preliminar, resultando nos seguintes insights:
 
 - Observamos que 82% dos usuários foram retidos, enquanto 18% deixaram de usar o aplicativo.
@@ -113,7 +115,7 @@ A equipe desenvolveu um modelo de regressão logística binomial para prever a r
 <br>
 
 <div align='center'>
-    <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto09/images/image10.png" width="60%"/>
+    <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto09/images/image10.png" width="40%"/>
 </div>
 
 <br>
@@ -131,7 +133,7 @@ Destacamos os seguintes pontos-chave:
 <br>
 
 <div align='center'>
-    <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto09/images/image11.png" width="40%"/>
+    <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto09/images/image11.png" width="60%"/>
 </div>
 
 <br>
