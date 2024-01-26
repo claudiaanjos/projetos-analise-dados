@@ -84,6 +84,8 @@ Waze
 
 - [Planejamento do projeto]()
 
+<br>
+
 <div align='center'>
-    <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto09/images/image02.png" width="100%"/>
+    <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto09/images/image02.png" width="80%"/>
 </div>
