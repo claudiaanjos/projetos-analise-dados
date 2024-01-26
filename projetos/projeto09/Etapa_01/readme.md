@@ -36,7 +36,7 @@ Waze
 ### Email de May Santner, Gerente de análise de dados
 
 
-De: “May Santner”, May@waze.com 
+De: “May Santner”, May@waze
 
 Assunto: Sua primeira tarefa: revisar as notas da reunião
 
@@ -82,10 +82,10 @@ Waze
 
 ## Entregavéis
 
-- [Planejamento do projeto]()
+- [Planejamento do projeto](https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto09/Etapa_01/01-Planejamento_do_projeto.pdf)
 
 <br>
 
 <div align='center'>
-    <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto09/images/image02.png" width="80%"/>
+    <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto09/images/image02.png" width="60%"/>
 </div>
