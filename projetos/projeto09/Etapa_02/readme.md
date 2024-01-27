@@ -66,7 +66,7 @@ Waze
 
 ## Dicionário de dados
 
-Este projeto usa um conjunto de dados chamado [waze_dataset.csv](). Contém dados sintéticos criados para este projeto em parceria com o Waze. 
+Este projeto usa um conjunto de dados chamado [waze_dataset.csv](https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto09/Etapa_02/waze_dataset.csv). Contém dados sintéticos criados para este projeto em parceria com o Waze. 
 
 O conjunto de dados contém: 14.999 linhas (cada linha representa um usuário único) e 13 colunas.
 
@@ -90,8 +90,8 @@ O conjunto de dados contém: 14.999 linhas (cada linha representa um usuário ú
 
 ## Entregavéis
 
-- [Notebook]()
-- [Resumo Executivo]()
+- [Notebook](https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto09/Etapa_02/02_Notebook.ipynb)
+- [Resumo Executivo](https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto09/Etapa_02/02_Resumo_Executivo.pdf)
 
 <br>
 
