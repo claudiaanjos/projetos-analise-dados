@@ -93,6 +93,8 @@ O conjunto de dados contém: 14.999 linhas (cada linha representa um usuário ú
 - [Notebook]()
 - [Resumo Executivo]()
 
+<br>
+
 <div align='center'>
     <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto09/images/image03.png" width="60%"/>
 </div>
