@@ -93,9 +93,11 @@ Waze
 
 ## Entregavéis
 
-- [Notebook]()
-- [Resumo Executivo]()
+- [Notebook](https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto09/Etapa_05/05_Notebook.ipynb)
+- [Resumo Executivo](https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto09/Etapa_05/05_Resumo_Executivo.pdf)
+
+<br>
 
 <div align='center'>
-    <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto09/images/image06.png" width="100%"/>
+    <img src="https://github.com/claudiaanjos/projetos-analise-dados/blob/main/projetos/projeto09/images/image06.png" width="60%"/>
 </div>
