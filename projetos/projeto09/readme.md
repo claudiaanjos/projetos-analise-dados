@@ -47,11 +47,11 @@ O projeto foi desenvolvido em etapas distintas. Após cada interação com a equ
 As etapas foram as seguintes:
 
 - [Etapa_01](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos/projeto09/Etapa_01): Planejamento do Projeto
-- [Etapa_02](): Análise Preliminar dos Dados
-- [Etapa_03](): Análise Exploratória dos Dados
-- [Etapa_04](): Teste de Hipótese
-- [Etapa_05](): Regressão Logística
-- [Etapa_06](): Modelos de Machine Learning
+- [Etapa_02](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos/projeto09/Etapa_02): Análise Preliminar dos Dados
+- [Etapa_03](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos/projeto09/Etapa_03): Análise Exploratória dos Dados
+- [Etapa_04](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos/projeto09/Etapa_04): Teste de Hipótese
+- [Etapa_05](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos/projeto09/Etapa_05): Regressão Logística
+- [Etapa_06](https://github.com/claudiaanjos/projetos-analise-dados/tree/main/projetos/projeto09/Etapa_06): Modelos de Machine Learning
 
 <br>
 
